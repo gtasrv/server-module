@@ -1,0 +1,29 @@
+{
+    "editor.fontFamily": "JetBrains Mono, 'bold', monospace",
+    "editor.fontSize": 20,
+
+    "workbench.iconTheme": "material-icon-theme",
+    "material-icon-theme.hidesExplorerArrows": true,
+    // "workbench.tree.indent": 14,
+
+
+    "workbench.sideBar.location": "right",
+    // "workbench.statusBar.visible": true,
+
+
+    // "editor.scrollbar.horizontal": "hidden",
+    // "editor.scrollbar.vertical": "hidden",
+    // "editor.minimap.enabled": true,
+    // "editor.matchBrackets": "never",
+    // "editor.occurrencesHighlight": "off",
+    // "editor.overviewRulerBorder": false,
+    // "editor.hideCursorInOverviewRuler": true,
+    // "editor.stickyScroll.enabled": false,
+
+    // "breadcrumbs.enabled": false,
+
+    // "chat.commandCenter.enabled": false,
+    // "workbench.layoutControl.enabled": false,
+    
+
+}

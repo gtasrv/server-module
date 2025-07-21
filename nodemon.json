@@ -1,0 +1,5 @@
+{
+    "watch": ["gamemodes/*.pwn", "gamemodes/*.inc", "modules/**/*.pwn", "modules/**/*.inc", "templates/**/*.pwn", "templates/**/*.inc"],
+    "ext": "pwn,inc",
+    "exec": "pawno\\pawncc.exe gamemodes\\bilder.pwn && node -e \"require('fs').renameSync('bilder.amx', 'gamemodes/bilder.amx')\" && node -e \"require('child_process').spawn('samp-server.exe', { stdio: 'inherit', shell: true })\" && node -e \"process.stdout.write('\\x1B[999B')\""
+}

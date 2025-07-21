@@ -1,0 +1,5852 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:06:43] filterscripts = ""  (string)
+[17:06:43] 
+[17:06:43] Server Plugins
+[17:06:43] --------------
+[17:06:43]  Loaded 0 plugins.
+
+[17:06:43] 
+[17:06:43] Filterscripts
+[17:06:43] ---------------
+[17:06:43]   Loaded 0 filterscripts.
+
+[17:06:43] Running: RC BARNSTORM by kyeman 2007
+[17:06:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:09:13] filterscripts = ""  (string)
+[17:09:13] 
+[17:09:13] Server Plugins
+[17:09:13] --------------
+[17:09:13]  Loaded 0 plugins.
+
+[17:09:13] 
+[17:09:13] Filterscripts
+[17:09:13] ---------------
+[17:09:13]   Loaded 0 filterscripts.
+
+[17:09:13] Running: RC BARNSTORM by kyeman 2007
+[17:09:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:09:29] filterscripts = ""  (string)
+[17:09:29] 
+[17:09:29] Server Plugins
+[17:09:29] --------------
+[17:09:29]  Loaded 0 plugins.
+
+[17:09:29] 
+[17:09:29] Filterscripts
+[17:09:29] ---------------
+[17:09:29]   Loaded 0 filterscripts.
+
+[17:09:29] Running: RC BARNSTORM by kyeman 2007
+[17:09:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:11:17] filterscripts = ""  (string)
+[17:11:17] 
+[17:11:17] Server Plugins
+[17:11:17] --------------
+[17:11:17]  Loaded 0 plugins.
+
+[17:11:17] 
+[17:11:17] Filterscripts
+[17:11:17] ---------------
+[17:11:17]   Loaded 0 filterscripts.
+
+[17:11:17] Running: RC BARNSTORM by kyeman 2007
+[17:11:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:11:21] filterscripts = ""  (string)
+[17:11:21] 
+[17:11:21] Server Plugins
+[17:11:21] --------------
+[17:11:21]  Loaded 0 plugins.
+
+[17:11:21] 
+[17:11:21] Filterscripts
+[17:11:21] ---------------
+[17:11:21]   Loaded 0 filterscripts.
+
+[17:11:21] Running: RC BARNSTORM by kyeman 2007
+[17:11:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:11:27] filterscripts = ""  (string)
+[17:11:27] 
+[17:11:27] Server Plugins
+[17:11:27] --------------
+[17:11:27]  Loaded 0 plugins.
+
+[17:11:27] 
+[17:11:27] Filterscripts
+[17:11:27] ---------------
+[17:11:27]   Loaded 0 filterscripts.
+
+[17:11:27] Running: RC BARNSTORM by kyeman 2007
+[17:11:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:14:59] filterscripts = ""  (string)
+[17:14:59] 
+[17:14:59] Server Plugins
+[17:14:59] --------------
+[17:14:59]  Loaded 0 plugins.
+
+[17:14:59] 
+[17:14:59] Filterscripts
+[17:14:59] ---------------
+[17:14:59]   Loaded 0 filterscripts.
+
+[17:14:59] Running: RC BARNSTORM by kyeman 2007
+[17:14:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:05] filterscripts = ""  (string)
+[17:15:05] 
+[17:15:05] Server Plugins
+[17:15:05] --------------
+[17:15:05]  Loaded 0 plugins.
+
+[17:15:05] 
+[17:15:05] Filterscripts
+[17:15:05] ---------------
+[17:15:05]   Loaded 0 filterscripts.
+
+[17:15:05] Running: RC BARNSTORM by kyeman 2007
+[17:15:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:14] filterscripts = ""  (string)
+[17:15:14] 
+[17:15:14] Server Plugins
+[17:15:14] --------------
+[17:15:14]  Loaded 0 plugins.
+
+[17:15:15] 
+[17:15:15] Filterscripts
+[17:15:15] ---------------
+[17:15:15]   Loaded 0 filterscripts.
+
+[17:15:15] Running: RC BARNSTORM by kyeman 2007
+[17:15:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:20] filterscripts = ""  (string)
+[17:15:20] 
+[17:15:20] Server Plugins
+[17:15:20] --------------
+[17:15:20]  Loaded 0 plugins.
+
+[17:15:20] 
+[17:15:20] Filterscripts
+[17:15:20] ---------------
+[17:15:20]   Loaded 0 filterscripts.
+
+[17:15:20] Running: RC BARNSTORM by kyeman 2007
+[17:15:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:31] filterscripts = ""  (string)
+[17:15:31] 
+[17:15:31] Server Plugins
+[17:15:31] --------------
+[17:15:31]  Loaded 0 plugins.
+
+[17:15:31] 
+[17:15:31] Filterscripts
+[17:15:31] ---------------
+[17:15:31]   Loaded 0 filterscripts.
+
+[17:15:31] Running: RC BARNSTORM by kyeman 2007
+[17:15:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:40] filterscripts = ""  (string)
+[17:15:40] 
+[17:15:40] Server Plugins
+[17:15:40] --------------
+[17:15:40]  Loaded 0 plugins.
+
+[17:15:40] 
+[17:15:40] Filterscripts
+[17:15:40] ---------------
+[17:15:40]   Loaded 0 filterscripts.
+
+[17:15:40] Running: RC BARNSTORM by kyeman 2007
+[17:15:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:15:40] filterscripts = ""  (string)
+[17:15:40] 
+[17:15:40] Server Plugins
+[17:15:40] --------------
+[17:15:40]  Loaded 0 plugins.
+
+[17:15:40] 
+[17:15:40] Filterscripts
+[17:15:40] ---------------
+[17:15:40]   Loaded 0 filterscripts.
+
+[17:15:40] Running: RC BARNSTORM by kyeman 2007
+[17:15:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:20:14] filterscripts = ""  (string)
+[17:20:14] 
+[17:20:14] Server Plugins
+[17:20:14] --------------
+[17:20:14]  Loaded 0 plugins.
+
+[17:20:14] 
+[17:20:14] Filterscripts
+[17:20:14] ---------------
+[17:20:14]   Loaded 0 filterscripts.
+
+[17:20:14] Running: RC BARNSTORM by kyeman 2007
+[17:20:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:30:51] filterscripts = ""  (string)
+[17:30:51] 
+[17:30:51] Server Plugins
+[17:30:51] --------------
+[17:30:51]  Loaded 0 plugins.
+
+[17:30:51] 
+[17:30:51] Filterscripts
+[17:30:51] ---------------
+[17:30:51]   Loaded 0 filterscripts.
+
+[17:30:51] Running: RC BARNSTORM by kyeman 2007
+[17:30:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:30:59] filterscripts = ""  (string)
+[17:30:59] 
+[17:30:59] Server Plugins
+[17:30:59] --------------
+[17:30:59]  Loaded 0 plugins.
+
+[17:30:59] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:30:59] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:31:19] filterscripts = ""  (string)
+[17:31:19] 
+[17:31:19] Server Plugins
+[17:31:19] --------------
+[17:31:19]  Loaded 0 plugins.
+
+[17:31:19] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:31:19] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:40:46] filterscripts = ""  (string)
+[17:40:46] 
+[17:40:46] Server Plugins
+[17:40:46] --------------
+[17:40:46]  Loaded 0 plugins.
+
+[17:40:46] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:40:46] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:40:53] filterscripts = ""  (string)
+[17:40:53] 
+[17:40:53] Server Plugins
+[17:40:53] --------------
+[17:40:53]  Loaded 0 plugins.
+
+[17:40:53] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:40:53] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:42:14] filterscripts = ""  (string)
+[17:42:14] 
+[17:42:14] Server Plugins
+[17:42:14] --------------
+[17:42:14]  Loaded 0 plugins.
+
+[17:42:14] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:42:14] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:42:22] filterscripts = ""  (string)
+[17:42:22] 
+[17:42:22] Server Plugins
+[17:42:22] --------------
+[17:42:22]  Loaded 0 plugins.
+
+[17:42:22] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:42:22] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:42:29] filterscripts = ""  (string)
+[17:42:29] 
+[17:42:29] Server Plugins
+[17:42:29] --------------
+[17:42:29]  Loaded 0 plugins.
+
+[17:42:29] I couldn't load any gamemode scripts. Please verify your server.cfg
+[17:42:29] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:57:43] filterscripts = ""  (string)
+[17:57:43] 
+[17:57:43] Server Plugins
+[17:57:43] --------------
+[17:57:43]  Loaded 0 plugins.
+
+[17:57:43] 
+[17:57:43] Filterscripts
+[17:57:43] ---------------
+[17:57:43]   Loaded 0 filterscripts.
+
+[17:57:43] Running: RC BARNSTORM by kyeman 2007
+[17:57:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:38] filterscripts = ""  (string)
+[17:58:38] 
+[17:58:38] Server Plugins
+[17:58:38] --------------
+[17:58:38]  Loaded 0 plugins.
+
+[17:58:38] 
+[17:58:38] Filterscripts
+[17:58:38] ---------------
+[17:58:38]   Loaded 0 filterscripts.
+
+[17:58:38] Running: RC BARNSTORM by kyeman 2007
+[17:58:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:43] filterscripts = ""  (string)
+[17:58:43] 
+[17:58:43] Server Plugins
+[17:58:43] --------------
+[17:58:43]  Loaded 0 plugins.
+
+[17:58:43] 
+[17:58:43] Filterscripts
+[17:58:43] ---------------
+[17:58:43]   Loaded 0 filterscripts.
+
+[17:58:43] Running: RC BARNSTORM by kyeman 2007
+[17:58:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:43] filterscripts = ""  (string)
+[17:58:43] 
+[17:58:43] Server Plugins
+[17:58:43] --------------
+[17:58:43]  Loaded 0 plugins.
+
+[17:58:43] 
+[17:58:43] Filterscripts
+[17:58:43] ---------------
+[17:58:43]   Loaded 0 filterscripts.
+
+[17:58:43] Running: RC BARNSTORM by kyeman 2007
+[17:58:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:44] filterscripts = ""  (string)
+[17:58:44] 
+[17:58:44] Server Plugins
+[17:58:44] --------------
+[17:58:44]  Loaded 0 plugins.
+
+[17:58:44] 
+[17:58:44] Filterscripts
+[17:58:44] ---------------
+[17:58:44]   Loaded 0 filterscripts.
+
+[17:58:44] Running: RC BARNSTORM by kyeman 2007
+[17:58:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:44] filterscripts = ""  (string)
+[17:58:44] 
+[17:58:44] Server Plugins
+[17:58:44] --------------
+[17:58:44]  Loaded 0 plugins.
+
+[17:58:44] 
+[17:58:44] Filterscripts
+[17:58:44] ---------------
+[17:58:44]   Loaded 0 filterscripts.
+
+[17:58:44] Running: RC BARNSTORM by kyeman 2007
+[17:58:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:45] filterscripts = ""  (string)
+[17:58:45] 
+[17:58:45] Server Plugins
+[17:58:45] --------------
+[17:58:45]  Loaded 0 plugins.
+
+[17:58:45] 
+[17:58:45] Filterscripts
+[17:58:45] ---------------
+[17:58:45]   Loaded 0 filterscripts.
+
+[17:58:45] Running: RC BARNSTORM by kyeman 2007
+[17:58:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:59] filterscripts = ""  (string)
+[17:58:59] 
+[17:58:59] Server Plugins
+[17:58:59] --------------
+[17:58:59]  Loaded 0 plugins.
+
+[17:58:59] 
+[17:58:59] Filterscripts
+[17:58:59] ---------------
+[17:58:59]   Loaded 0 filterscripts.
+
+[17:58:59] Running: RC BARNSTORM by kyeman 2007
+[17:58:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:58:59] filterscripts = ""  (string)
+[17:58:59] 
+[17:58:59] Server Plugins
+[17:58:59] --------------
+[17:58:59]  Loaded 0 plugins.
+
+[17:58:59] 
+[17:58:59] Filterscripts
+[17:58:59] ---------------
+[17:58:59]   Loaded 0 filterscripts.
+
+[17:58:59] Running: RC BARNSTORM by kyeman 2007
+[17:58:59] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:59:00] filterscripts = ""  (string)
+[17:59:00] 
+[17:59:00] Server Plugins
+[17:59:00] --------------
+[17:59:00]  Loaded 0 plugins.
+
+[17:59:00] 
+[17:59:00] Filterscripts
+[17:59:00] ---------------
+[17:59:00]   Loaded 0 filterscripts.
+
+[17:59:00] Running: RC BARNSTORM by kyeman 2007
+[17:59:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:59:01] filterscripts = ""  (string)
+[17:59:01] 
+[17:59:01] Server Plugins
+[17:59:01] --------------
+[17:59:01]  Loaded 0 plugins.
+
+[17:59:01] 
+[17:59:01] Filterscripts
+[17:59:01] ---------------
+[17:59:01]   Loaded 0 filterscripts.
+
+[17:59:01] Running: RC BARNSTORM by kyeman 2007
+[17:59:01] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:59:13] filterscripts = ""  (string)
+[17:59:13] 
+[17:59:13] Server Plugins
+[17:59:13] --------------
+[17:59:13]  Loaded 0 plugins.
+
+[17:59:13] 
+[17:59:13] Filterscripts
+[17:59:13] ---------------
+[17:59:13]   Loaded 0 filterscripts.
+
+[17:59:13] Running: RC BARNSTORM by kyeman 2007
+[17:59:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[17:59:20] filterscripts = ""  (string)
+[17:59:20] 
+[17:59:20] Server Plugins
+[17:59:20] --------------
+[17:59:20]  Loaded 0 plugins.
+
+[17:59:20] 
+[17:59:20] Filterscripts
+[17:59:20] ---------------
+[17:59:20]   Loaded 0 filterscripts.
+
+[17:59:20] Running: RC BARNSTORM by kyeman 2007
+[17:59:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:00:07] filterscripts = ""  (string)
+[18:00:07] 
+[18:00:07] Server Plugins
+[18:00:07] --------------
+[18:00:07]  Loaded 0 plugins.
+
+[18:00:07] 
+[18:00:07] Filterscripts
+[18:00:07] ---------------
+[18:00:07]   Loaded 0 filterscripts.
+
+[18:00:07] Running: RC BARNSTORM by kyeman 2007
+[18:00:07] Number of vehicle models: 0
+[18:00:34] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:00:38] filterscripts = ""  (string)
+[18:00:38] 
+[18:00:38] Server Plugins
+[18:00:38] --------------
+[18:00:38]  Loaded 0 plugins.
+
+[18:00:38] 
+[18:00:38] Filterscripts
+[18:00:38] ---------------
+[18:00:38]   Loaded 0 filterscripts.
+
+[18:00:38] Running: RC BARNSTORM by kyeman 2007
+[18:00:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:00:43] filterscripts = ""  (string)
+[18:00:43] 
+[18:00:43] Server Plugins
+[18:00:43] --------------
+[18:00:43]  Loaded 0 plugins.
+
+[18:00:43] 
+[18:00:43] Filterscripts
+[18:00:43] ---------------
+[18:00:43]   Loaded 0 filterscripts.
+
+[18:00:43] Running: RC BARNSTORM by kyeman 2007
+[18:00:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:00:43] filterscripts = ""  (string)
+[18:00:43] 
+[18:00:43] Server Plugins
+[18:00:43] --------------
+[18:00:43]  Loaded 0 plugins.
+
+[18:00:43] 
+[18:00:43] Filterscripts
+[18:00:43] ---------------
+[18:00:43]   Loaded 0 filterscripts.
+
+[18:00:43] Running: RC BARNSTORM by kyeman 2007
+[18:00:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:00:44] filterscripts = ""  (string)
+[18:00:44] 
+[18:00:44] Server Plugins
+[18:00:44] --------------
+[18:00:44]  Loaded 0 plugins.
+
+[18:00:44] 
+[18:00:44] Filterscripts
+[18:00:44] ---------------
+[18:00:44]   Loaded 0 filterscripts.
+
+[18:00:44] Running: RC BARNSTORM by kyeman 2007
+[18:00:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:01:33] filterscripts = ""  (string)
+[18:01:33] 
+[18:01:33] Server Plugins
+[18:01:33] --------------
+[18:01:33]  Loaded 0 plugins.
+
+[18:01:33] 
+[18:01:33] Filterscripts
+[18:01:33] ---------------
+[18:01:33]   Loaded 0 filterscripts.
+
+[18:01:33] Running: RC BARNSTORM by kyeman 2007
+[18:01:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:01:38] filterscripts = ""  (string)
+[18:01:38] 
+[18:01:38] Server Plugins
+[18:01:38] --------------
+[18:01:38]  Loaded 0 plugins.
+
+[18:01:38] 
+[18:01:38] Filterscripts
+[18:01:38] ---------------
+[18:01:38]   Loaded 0 filterscripts.
+
+[18:01:38] Running: RC BARNSTORM by kyeman 2007
+[18:01:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:01:54] filterscripts = ""  (string)
+[18:01:54] 
+[18:01:54] Server Plugins
+[18:01:54] --------------
+[18:01:54]  Loaded 0 plugins.
+
+[18:01:54] 
+[18:01:54] Filterscripts
+[18:01:54] ---------------
+[18:01:54]   Loaded 0 filterscripts.
+
+[18:01:54] Running: RC BARNSTORM by kyeman 2007
+[18:01:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:01:54] filterscripts = ""  (string)
+[18:01:54] 
+[18:01:54] Server Plugins
+[18:01:54] --------------
+[18:01:54]  Loaded 0 plugins.
+
+[18:01:54] 
+[18:01:54] Filterscripts
+[18:01:54] ---------------
+[18:01:54]   Loaded 0 filterscripts.
+
+[18:01:54] Running: RC BARNSTORM by kyeman 2007
+[18:01:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:02:41] filterscripts = ""  (string)
+[18:02:41] 
+[18:02:41] Server Plugins
+[18:02:41] --------------
+[18:02:41]  Loaded 0 plugins.
+
+[18:02:41] 
+[18:02:41] Filterscripts
+[18:02:41] ---------------
+[18:02:41]   Loaded 0 filterscripts.
+
+[18:02:41] Running: RC BARNSTORM by kyeman 2007
+[18:02:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:02:44] filterscripts = ""  (string)
+[18:02:44] 
+[18:02:44] Server Plugins
+[18:02:44] --------------
+[18:02:44]  Loaded 0 plugins.
+
+[18:02:44] 
+[18:02:44] Filterscripts
+[18:02:44] ---------------
+[18:02:44]   Loaded 0 filterscripts.
+
+[18:02:44] Running: RC BARNSTORM by kyeman 2007
+[18:02:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:03:51] filterscripts = ""  (string)
+[18:03:51] 
+[18:03:51] Server Plugins
+[18:03:51] --------------
+[18:03:51]  Loaded 0 plugins.
+
+[18:03:51] 
+[18:03:51] Filterscripts
+[18:03:51] ---------------
+[18:03:51]   Loaded 0 filterscripts.
+
+[18:03:51] Running: RC BARNSTORM by kyeman 2007
+[18:03:51] Number of vehicle models: 0
+[18:06:12] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:04] filterscripts = ""  (string)
+[18:09:04] 
+[18:09:04] Server Plugins
+[18:09:04] --------------
+[18:09:04]  Loaded 0 plugins.
+
+[18:09:04] 
+[18:09:04] Filterscripts
+[18:09:04] ---------------
+[18:09:04]   Loaded 0 filterscripts.
+
+[18:09:04] Running: RC BARNSTORM by kyeman 2007
+[18:09:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:16] filterscripts = ""  (string)
+[18:09:16] 
+[18:09:16] Server Plugins
+[18:09:16] --------------
+[18:09:16]  Loaded 0 plugins.
+
+[18:09:16] 
+[18:09:16] Filterscripts
+[18:09:16] ---------------
+[18:09:16]   Loaded 0 filterscripts.
+
+[18:09:16] Running: RC BARNSTORM by kyeman 2007
+[18:09:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:42] filterscripts = ""  (string)
+[18:09:42] 
+[18:09:42] Server Plugins
+[18:09:42] --------------
+[18:09:42]  Loaded 0 plugins.
+
+[18:09:42] 
+[18:09:42] Filterscripts
+[18:09:42] ---------------
+[18:09:42]   Loaded 0 filterscripts.
+
+[18:09:42] Running: RC BARNSTORM by kyeman 2007
+[18:09:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:42] filterscripts = ""  (string)
+[18:09:42] 
+[18:09:42] Server Plugins
+[18:09:42] --------------
+[18:09:42]  Loaded 0 plugins.
+
+[18:09:43] 
+[18:09:43] Filterscripts
+[18:09:43] ---------------
+[18:09:43]   Loaded 0 filterscripts.
+
+[18:09:43] Running: RC BARNSTORM by kyeman 2007
+[18:09:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:47] filterscripts = ""  (string)
+[18:09:47] 
+[18:09:47] Server Plugins
+[18:09:47] --------------
+[18:09:47]  Loaded 0 plugins.
+
+[18:09:47] 
+[18:09:47] Filterscripts
+[18:09:47] ---------------
+[18:09:47]   Loaded 0 filterscripts.
+
+[18:09:47] Running: RC BARNSTORM by kyeman 2007
+[18:09:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:09:50] filterscripts = ""  (string)
+[18:09:50] 
+[18:09:50] Server Plugins
+[18:09:50] --------------
+[18:09:50]  Loaded 0 plugins.
+
+[18:09:50] 
+[18:09:50] Filterscripts
+[18:09:50] ---------------
+[18:09:50]   Loaded 0 filterscripts.
+
+[18:09:50] Running: RC BARNSTORM by kyeman 2007
+[18:09:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:28:12] filterscripts = ""  (string)
+[18:28:12] 
+[18:28:12] Server Plugins
+[18:28:12] --------------
+[18:28:12]  Loaded 0 plugins.
+
+[18:28:12] 
+[18:28:12] Filterscripts
+[18:28:12] ---------------
+[18:28:12]   Loaded 0 filterscripts.
+
+[18:28:12] Running: RC BARNSTORM by kyeman 2007
+[18:28:12] Number of vehicle models: 0
+[18:29:15] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:29:46] filterscripts = ""  (string)
+[18:29:46] 
+[18:29:46] Server Plugins
+[18:29:46] --------------
+[18:29:46]  Loaded 0 plugins.
+
+[18:29:46] 
+[18:29:46] Filterscripts
+[18:29:46] ---------------
+[18:29:46]   Loaded 0 filterscripts.
+
+[18:29:46] Running: RC BARNSTORM by kyeman 2007
+[18:29:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:29:51] filterscripts = ""  (string)
+[18:29:51] 
+[18:29:51] Server Plugins
+[18:29:51] --------------
+[18:29:51]  Loaded 0 plugins.
+
+[18:29:51] 
+[18:29:51] Filterscripts
+[18:29:51] ---------------
+[18:29:51]   Loaded 0 filterscripts.
+
+[18:29:51] Running: RC BARNSTORM by kyeman 2007
+[18:29:51] Number of vehicle models: 0
+[18:32:10] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:32:13] filterscripts = ""  (string)
+[18:32:13] 
+[18:32:13] Server Plugins
+[18:32:13] --------------
+[18:32:13]  Loaded 0 plugins.
+
+[18:32:13] 
+[18:32:13] Filterscripts
+[18:32:13] ---------------
+[18:32:13]   Loaded 0 filterscripts.
+
+[18:32:13] Running: RC BARNSTORM by kyeman 2007
+[18:32:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:32:14] filterscripts = ""  (string)
+[18:32:14] 
+[18:32:14] Server Plugins
+[18:32:14] --------------
+[18:32:14]  Loaded 0 plugins.
+
+[18:32:14] 
+[18:32:14] Filterscripts
+[18:32:14] ---------------
+[18:32:14]   Loaded 0 filterscripts.
+
+[18:32:14] Running: RC BARNSTORM by kyeman 2007
+[18:32:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:32:16] filterscripts = ""  (string)
+[18:32:16] 
+[18:32:16] Server Plugins
+[18:32:16] --------------
+[18:32:16]  Loaded 0 plugins.
+
+[18:32:16] 
+[18:32:16] Filterscripts
+[18:32:16] ---------------
+[18:32:16]   Loaded 0 filterscripts.
+
+[18:32:16] Running: RC BARNSTORM by kyeman 2007
+[18:32:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:32:49] filterscripts = ""  (string)
+[18:32:49] 
+[18:32:49] Server Plugins
+[18:32:49] --------------
+[18:32:49]  Loaded 0 plugins.
+
+[18:32:49] 
+[18:32:49] Filterscripts
+[18:32:49] ---------------
+[18:32:49]   Loaded 0 filterscripts.
+
+[18:32:49] Running: RC BARNSTORM by kyeman 2007
+[18:32:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:33:03] filterscripts = ""  (string)
+[18:33:03] 
+[18:33:03] Server Plugins
+[18:33:03] --------------
+[18:33:03]  Loaded 0 plugins.
+
+[18:33:03] 
+[18:33:03] Filterscripts
+[18:33:03] ---------------
+[18:33:03]   Loaded 0 filterscripts.
+
+[18:33:03] Running: RC BARNSTORM by kyeman 2007
+[18:33:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:33:05] filterscripts = ""  (string)
+[18:33:05] 
+[18:33:05] Server Plugins
+[18:33:05] --------------
+[18:33:05]  Loaded 0 plugins.
+
+[18:33:05] 
+[18:33:05] Filterscripts
+[18:33:05] ---------------
+[18:33:05]   Loaded 0 filterscripts.
+
+[18:33:05] Running: RC BARNSTORM by kyeman 2007
+[18:33:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:33:43] filterscripts = ""  (string)
+[18:33:43] 
+[18:33:43] Server Plugins
+[18:33:43] --------------
+[18:33:43]  Loaded 0 plugins.
+
+[18:33:43] 
+[18:33:43] Filterscripts
+[18:33:43] ---------------
+[18:33:43]   Loaded 0 filterscripts.
+
+[18:33:43] Running: RC BARNSTORM by kyeman 2007
+[18:33:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:33:44] filterscripts = ""  (string)
+[18:33:44] 
+[18:33:44] Server Plugins
+[18:33:44] --------------
+[18:33:44]  Loaded 0 plugins.
+
+[18:33:44] 
+[18:33:44] Filterscripts
+[18:33:44] ---------------
+[18:33:44]   Loaded 0 filterscripts.
+
+[18:33:44] Running: RC BARNSTORM by kyeman 2007
+[18:33:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:33:51] filterscripts = ""  (string)
+[18:33:51] 
+[18:33:51] Server Plugins
+[18:33:51] --------------
+[18:33:51]  Loaded 0 plugins.
+
+[18:33:51] 
+[18:33:51] Filterscripts
+[18:33:51] ---------------
+[18:33:51]   Loaded 0 filterscripts.
+
+[18:33:51] Running: RC BARNSTORM by kyeman 2007
+[18:33:51] Number of vehicle models: 0
+[18:33:59] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:34:28] filterscripts = ""  (string)
+[18:34:28] 
+[18:34:28] Server Plugins
+[18:34:28] --------------
+[18:34:28]  Loaded 0 plugins.
+
+[18:34:28] 
+[18:34:28] Filterscripts
+[18:34:28] ---------------
+[18:34:28]   Loaded 0 filterscripts.
+
+[18:34:28] выфвф
+[18:34:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:34:34] filterscripts = ""  (string)
+[18:34:34] 
+[18:34:34] Server Plugins
+[18:34:34] --------------
+[18:34:34]  Loaded 0 plugins.
+
+[18:34:34] 
+[18:34:34] Filterscripts
+[18:34:34] ---------------
+[18:34:34]   Loaded 0 filterscripts.
+
+[18:34:34] РІС‹С„РІС„
+[18:34:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:34:37] filterscripts = ""  (string)
+[18:34:37] 
+[18:34:37] Server Plugins
+[18:34:37] --------------
+[18:34:37]  Loaded 0 plugins.
+
+[18:34:37] 
+[18:34:37] Filterscripts
+[18:34:37] ---------------
+[18:34:37]   Loaded 0 filterscripts.
+
+[18:34:37] РІС‹С„РІС„
+[18:34:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:38:09] filterscripts = ""  (string)
+[18:38:09] 
+[18:38:09] Server Plugins
+[18:38:09] --------------
+[18:38:09]  Loaded 0 plugins.
+
+[18:38:09] 
+[18:38:09] Filterscripts
+[18:38:09] ---------------
+[18:38:09]   Loaded 0 filterscripts.
+
+[18:38:09] выфвф
+[18:38:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:56:09] filterscripts = ""  (string)
+[18:56:09] 
+[18:56:09] Server Plugins
+[18:56:09] --------------
+[18:56:09]  Loaded 0 plugins.
+
+[18:56:09] 
+[18:56:09] Filterscripts
+[18:56:09] ---------------
+[18:56:09]   Loaded 0 filterscripts.
+
+[18:56:09] выфвф
+[18:56:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[18:57:26] filterscripts = ""  (string)
+[18:57:26] 
+[18:57:26] Server Plugins
+[18:57:26] --------------
+[18:57:26]  Loaded 0 plugins.
+
+[18:57:26] 
+[18:57:26] Filterscripts
+[18:57:26] ---------------
+[18:57:26]   Loaded 0 filterscripts.
+
+[18:57:26] выфвф
+[18:57:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[19:36:36] filterscripts = ""  (string)
+[19:36:36] 
+[19:36:36] Server Plugins
+[19:36:36] --------------
+[19:36:36]  Loaded 0 plugins.
+
+[19:36:36] 
+[19:36:36] Filterscripts
+[19:36:36] ---------------
+[19:36:36]   Loaded 0 filterscripts.
+
+[19:36:36] выфвф
+[19:36:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:38:59] filterscripts = ""  (string)
+[21:38:59] 
+[21:38:59] Server Plugins
+[21:38:59] --------------
+[21:38:59]  Loaded 0 plugins.
+
+[21:38:59] I couldn't load any gamemode scripts. Please verify your server.cfg
+[21:38:59] It needs a gamemode0 line at the very least.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:39:17] filterscripts = ""  (string)
+[21:39:17] 
+[21:39:17] Server Plugins
+[21:39:17] --------------
+[21:39:17]  Loaded 0 plugins.
+
+[21:39:17] 
+[21:39:17] Filterscripts
+[21:39:17] ---------------
+[21:39:17]   Loaded 0 filterscripts.
+
+[21:39:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:39:53] filterscripts = ""  (string)
+[21:39:53] 
+[21:39:53] Server Plugins
+[21:39:53] --------------
+[21:39:53]  Loaded 0 plugins.
+
+[21:39:53] 
+[21:39:53] Filterscripts
+[21:39:53] ---------------
+[21:39:53]   Loaded 0 filterscripts.
+
+[21:39:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:40:04] filterscripts = ""  (string)
+[21:40:04] 
+[21:40:04] Server Plugins
+[21:40:04] --------------
+[21:40:04]  Loaded 0 plugins.
+
+[21:40:04] 
+[21:40:04] Filterscripts
+[21:40:04] ---------------
+[21:40:04]   Loaded 0 filterscripts.
+
+[21:40:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:40:33] filterscripts = ""  (string)
+[21:40:33] 
+[21:40:33] Server Plugins
+[21:40:33] --------------
+[21:40:33]  Loaded 0 plugins.
+
+[21:40:33] 
+[21:40:33] Filterscripts
+[21:40:33] ---------------
+[21:40:33]   Loaded 0 filterscripts.
+
+[21:40:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:40:46] filterscripts = ""  (string)
+[21:40:46] 
+[21:40:46] Server Plugins
+[21:40:46] --------------
+[21:40:46]  Loaded 0 plugins.
+
+[21:40:46] 
+[21:40:46] Filterscripts
+[21:40:46] ---------------
+[21:40:46]   Loaded 0 filterscripts.
+
+[21:40:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:40:56] filterscripts = ""  (string)
+[21:40:56] 
+[21:40:56] Server Plugins
+[21:40:56] --------------
+[21:40:56]  Loaded 0 plugins.
+
+[21:40:56] 
+[21:40:56] Filterscripts
+[21:40:56] ---------------
+[21:40:56]   Loaded 0 filterscripts.
+
+[21:40:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:44:04] filterscripts = ""  (string)
+[21:44:04] 
+[21:44:04] Server Plugins
+[21:44:04] --------------
+[21:44:04]  Loaded 0 plugins.
+
+[21:44:04] 
+[21:44:04] Filterscripts
+[21:44:04] ---------------
+[21:44:04]   Loaded 0 filterscripts.
+
+[21:44:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:44:36] filterscripts = ""  (string)
+[21:44:36] 
+[21:44:36] Server Plugins
+[21:44:36] --------------
+[21:44:36]  Loaded 0 plugins.
+
+[21:44:36] 
+[21:44:36] Filterscripts
+[21:44:36] ---------------
+[21:44:36]   Loaded 0 filterscripts.
+
+[21:44:36] Привет, я из консоли
+[21:44:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:46:39] filterscripts = ""  (string)
+[21:46:39] 
+[21:46:39] Server Plugins
+[21:46:39] --------------
+[21:46:39]  Loaded 0 plugins.
+
+[21:46:39] 
+[21:46:39] Filterscripts
+[21:46:39] ---------------
+[21:46:39]   Loaded 0 filterscripts.
+
+[21:46:39] Привет, я из консоли
+[21:46:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:46:39] filterscripts = ""  (string)
+[21:46:39] 
+[21:46:39] Server Plugins
+[21:46:39] --------------
+[21:46:39]  Loaded 0 plugins.
+
+[21:46:39] 
+[21:46:39] Filterscripts
+[21:46:39] ---------------
+[21:46:39]   Loaded 0 filterscripts.
+
+[21:46:39] Привет, я из консоли
+[21:46:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:47:31] filterscripts = ""  (string)
+[21:47:31] 
+[21:47:31] Server Plugins
+[21:47:31] --------------
+[21:47:31]  Loaded 0 plugins.
+
+[21:47:31] 
+[21:47:31] Filterscripts
+[21:47:31] ---------------
+[21:47:31]   Loaded 0 filterscripts.
+
+[21:47:31] Привет, я из консоли
+[21:47:31] Number of vehicle models: 0
+[21:47:58] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:48:00] filterscripts = ""  (string)
+[21:48:00] 
+[21:48:00] Server Plugins
+[21:48:00] --------------
+[21:48:00]  Loaded 0 plugins.
+
+[21:48:00] 
+[21:48:00] Filterscripts
+[21:48:00] ---------------
+[21:48:00]   Loaded 0 filterscripts.
+
+[21:48:00] Привет, я из консоли
+[21:48:00] Number of vehicle models: 0
+[21:48:54] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:49:06] filterscripts = ""  (string)
+[21:49:06] 
+[21:49:06] Server Plugins
+[21:49:06] --------------
+[21:49:06]  Loaded 0 plugins.
+
+[21:49:06] 
+[21:49:06] Filterscripts
+[21:49:06] ---------------
+[21:49:06]   Loaded 0 filterscripts.
+
+[21:49:06] Привет, я из консоли
+[21:49:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:49:13] filterscripts = ""  (string)
+[21:49:13] 
+[21:49:13] Server Plugins
+[21:49:13] --------------
+[21:49:13]  Loaded 0 plugins.
+
+[21:49:13] 
+[21:49:13] Filterscripts
+[21:49:13] ---------------
+[21:49:13]   Loaded 0 filterscripts.
+
+[21:49:13] Привет, я из консоли
+[21:49:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:51:27] filterscripts = ""  (string)
+[21:51:27] 
+[21:51:27] Server Plugins
+[21:51:27] --------------
+[21:51:27]  Loaded 0 plugins.
+
+[21:51:27] 
+[21:51:27] Filterscripts
+[21:51:27] ---------------
+[21:51:27]   Loaded 0 filterscripts.
+
+[21:51:27] Привет, я из консоли
+[21:51:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:52:15] filterscripts = ""  (string)
+[21:52:15] 
+[21:52:15] Server Plugins
+[21:52:15] --------------
+[21:52:15]  Loaded 0 plugins.
+
+[21:52:15] 
+[21:52:15] Filterscripts
+[21:52:15] ---------------
+[21:52:15]   Loaded 0 filterscripts.
+
+[21:52:15] Привет, я из консоли
+[21:52:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:52:24] filterscripts = ""  (string)
+[21:52:24] 
+[21:52:24] Server Plugins
+[21:52:24] --------------
+[21:52:24]  Loaded 0 plugins.
+
+[21:52:24] 
+[21:52:24] Filterscripts
+[21:52:24] ---------------
+[21:52:24]   Loaded 0 filterscripts.
+
+[21:52:24] Привет, я из консоли
+[21:52:24] Модуль игрока инициализирован
+[21:52:24] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:52:25] filterscripts = ""  (string)
+[21:52:25] 
+[21:52:25] Server Plugins
+[21:52:25] --------------
+[21:52:25]  Loaded 0 plugins.
+
+[21:52:25] 
+[21:52:25] Filterscripts
+[21:52:25] ---------------
+[21:52:25]   Loaded 0 filterscripts.
+
+[21:52:25] Привет, я из консоли
+[21:52:25] Модуль игрока инициализирован
+[21:52:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:52:46] filterscripts = ""  (string)
+[21:52:46] 
+[21:52:46] Server Plugins
+[21:52:46] --------------
+[21:52:46]  Loaded 0 plugins.
+
+[21:52:46] 
+[21:52:46] Filterscripts
+[21:52:46] ---------------
+[21:52:46]   Loaded 0 filterscripts.
+
+[21:52:46] Привет, я из консоли
+[21:52:46] Модуль игрока инициализирован
+[21:52:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:52:47] filterscripts = ""  (string)
+[21:52:47] 
+[21:52:47] Server Plugins
+[21:52:47] --------------
+[21:52:47]  Loaded 0 plugins.
+
+[21:52:47] 
+[21:52:47] Filterscripts
+[21:52:47] ---------------
+[21:52:47]   Loaded 0 filterscripts.
+
+[21:52:47] Привет, я из консоли
+[21:52:47] Модуль игрока инициализирован
+[21:52:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:53:21] filterscripts = ""  (string)
+[21:53:21] 
+[21:53:21] Server Plugins
+[21:53:21] --------------
+[21:53:21]  Loaded 0 plugins.
+
+[21:53:21] 
+[21:53:21] Filterscripts
+[21:53:21] ---------------
+[21:53:21]   Loaded 0 filterscripts.
+
+[21:53:21] Привет, я из консоли
+[21:53:21] Модуль игрока инициализирован
+[21:53:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:53:22] filterscripts = ""  (string)
+[21:53:22] 
+[21:53:22] Server Plugins
+[21:53:22] --------------
+[21:53:22]  Loaded 0 plugins.
+
+[21:53:22] 
+[21:53:22] Filterscripts
+[21:53:22] ---------------
+[21:53:22]   Loaded 0 filterscripts.
+
+[21:53:22] Привет, я из консоли
+[21:53:22] Модуль игрока инициализирован
+[21:53:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:53:55] filterscripts = ""  (string)
+[21:53:55] 
+[21:53:55] Server Plugins
+[21:53:55] --------------
+[21:53:55]  Loaded 0 plugins.
+
+[21:53:55] 
+[21:53:55] Filterscripts
+[21:53:55] ---------------
+[21:53:55]   Loaded 0 filterscripts.
+
+[21:53:55] Привет, я из консоли
+[21:53:55] Модуль игрока инициализирован
+[21:53:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:54:17] filterscripts = ""  (string)
+[21:54:17] 
+[21:54:17] Server Plugins
+[21:54:17] --------------
+[21:54:17]  Loaded 0 plugins.
+
+[21:54:17] 
+[21:54:17] Filterscripts
+[21:54:17] ---------------
+[21:54:17]   Loaded 0 filterscripts.
+
+[21:54:17] Привет, я из консоли
+[21:54:17] Модуль игрока инициализирован
+[21:54:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:54:59] filterscripts = ""  (string)
+[21:54:59] 
+[21:54:59] Server Plugins
+[21:54:59] --------------
+[21:54:59]  Loaded 0 plugins.
+
+[21:54:59] 
+[21:54:59] Filterscripts
+[21:54:59] ---------------
+[21:54:59]   Loaded 0 filterscripts.
+
+[21:54:59] Привет, я из консоли
+[21:54:59] Модуль игрока инициализирован
+[21:54:59] Number of vehicle models: 0
+[21:58:28] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:58:30] filterscripts = ""  (string)
+[21:58:30] 
+[21:58:30] Server Plugins
+[21:58:30] --------------
+[21:58:30]  Loaded 0 plugins.
+
+[21:58:30] 
+[21:58:30] Filterscripts
+[21:58:30] ---------------
+[21:58:30]   Loaded 0 filterscripts.
+
+[21:58:30] Привет, я из консоли
+[21:58:30] Модуль игрока инициализирован
+[21:58:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:59:02] filterscripts = ""  (string)
+[21:59:02] 
+[21:59:02] Server Plugins
+[21:59:02] --------------
+[21:59:02]  Loaded 0 plugins.
+
+[21:59:03] 
+[21:59:03] Filterscripts
+[21:59:03] ---------------
+[21:59:03]   Loaded 0 filterscripts.
+
+[21:59:03] Привет, я из консоли
+[21:59:03] Модуль игрока инициализирован
+[21:59:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:59:10] filterscripts = ""  (string)
+[21:59:10] 
+[21:59:10] Server Plugins
+[21:59:10] --------------
+[21:59:10]  Loaded 0 plugins.
+
+[21:59:10] 
+[21:59:10] Filterscripts
+[21:59:10] ---------------
+[21:59:10]   Loaded 0 filterscripts.
+
+[21:59:10] Привет, я из консоли
+[21:59:10] Модуль игрока инициализирован
+[21:59:10] Number of vehicle models: 0
+[21:59:13] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:59:15] filterscripts = ""  (string)
+[21:59:15] 
+[21:59:15] Server Plugins
+[21:59:15] --------------
+[21:59:15]  Loaded 0 plugins.
+
+[21:59:15] 
+[21:59:15] Filterscripts
+[21:59:15] ---------------
+[21:59:15]   Loaded 0 filterscripts.
+
+[21:59:15] Привет, я из консоли
+[21:59:15] Модуль игрока инициализирован
+[21:59:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[21:59:23] filterscripts = ""  (string)
+[21:59:23] 
+[21:59:23] Server Plugins
+[21:59:23] --------------
+[21:59:23]  Loaded 0 plugins.
+
+[21:59:23] 
+[21:59:23] Filterscripts
+[21:59:23] ---------------
+[21:59:23]   Loaded 0 filterscripts.
+
+[21:59:23] Привет, я из консоли
+[21:59:23] Модуль игрока инициализирован
+[21:59:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:01:00] filterscripts = ""  (string)
+[22:01:00] 
+[22:01:00] Server Plugins
+[22:01:00] --------------
+[22:01:00]  Loaded 0 plugins.
+
+[22:01:00] 
+[22:01:00] Filterscripts
+[22:01:00] ---------------
+[22:01:00]   Loaded 0 filterscripts.
+
+[22:01:00] Привет, я из консоли
+[22:01:00] Модуль игрока инициализирован
+[22:01:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:01:15] filterscripts = ""  (string)
+[22:01:15] 
+[22:01:15] Server Plugins
+[22:01:15] --------------
+[22:01:15]  Loaded 0 plugins.
+
+[22:01:15] 
+[22:01:15] Filterscripts
+[22:01:15] ---------------
+[22:01:15]   Loaded 0 filterscripts.
+
+[22:01:15] Привет, я из консоли
+[22:01:15] Модуль игрока инициализирован
+[22:01:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:01:23] filterscripts = ""  (string)
+[22:01:23] 
+[22:01:23] Server Plugins
+[22:01:23] --------------
+[22:01:23]  Loaded 0 plugins.
+
+[22:01:23] 
+[22:01:23] Filterscripts
+[22:01:23] ---------------
+[22:01:23]   Loaded 0 filterscripts.
+
+[22:01:23] Привет, я из консоли
+[22:01:23] Модуль игрока инициализирован
+[22:01:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:01:44] filterscripts = ""  (string)
+[22:01:44] 
+[22:01:44] Server Plugins
+[22:01:44] --------------
+[22:01:44]  Loaded 0 plugins.
+
+[22:01:44] 
+[22:01:44] Filterscripts
+[22:01:44] ---------------
+[22:01:44]   Loaded 0 filterscripts.
+
+[22:01:44] Привет, я из консоли
+[22:01:44] Модуль игрока инициализирован
+[22:01:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:01:56] filterscripts = ""  (string)
+[22:01:56] 
+[22:01:56] Server Plugins
+[22:01:56] --------------
+[22:01:56]  Loaded 0 plugins.
+
+[22:01:56] 
+[22:01:56] Filterscripts
+[22:01:56] ---------------
+[22:01:56]   Loaded 0 filterscripts.
+
+[22:01:56] Привет, я из консоли
+[22:01:56] Модуль игрока инициализирован
+[22:01:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:02:17] filterscripts = ""  (string)
+[22:02:17] 
+[22:02:17] Server Plugins
+[22:02:17] --------------
+[22:02:17]  Loaded 0 plugins.
+
+[22:02:17] 
+[22:02:17] Filterscripts
+[22:02:17] ---------------
+[22:02:17]   Loaded 0 filterscripts.
+
+[22:02:17] Привет, я из консоли
+[22:02:17] Модуль игрока инициализирован
+[22:02:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:04:42] filterscripts = ""  (string)
+[22:04:42] 
+[22:04:42] Server Plugins
+[22:04:42] --------------
+[22:04:42]  Loaded 0 plugins.
+
+[22:04:42] 
+[22:04:42] Filterscripts
+[22:04:42] ---------------
+[22:04:42]   Loaded 0 filterscripts.
+
+[22:04:42] Привет, я из консоли
+[22:04:42] Модуль игрока инициализирован
+[22:04:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:04:56] filterscripts = ""  (string)
+[22:04:56] 
+[22:04:56] Server Plugins
+[22:04:56] --------------
+[22:04:56]  Loaded 0 plugins.
+
+[22:04:56] 
+[22:04:56] Filterscripts
+[22:04:56] ---------------
+[22:04:56]   Loaded 0 filterscripts.
+
+[22:04:56] Привет, я из консоли
+[22:04:56] Модуль игрока инициализирован
+[22:04:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:05:07] filterscripts = ""  (string)
+[22:05:07] 
+[22:05:07] Server Plugins
+[22:05:07] --------------
+[22:05:07]  Loaded 0 plugins.
+
+[22:05:07] 
+[22:05:07] Filterscripts
+[22:05:07] ---------------
+[22:05:07]   Loaded 0 filterscripts.
+
+[22:05:07] Привет, я из консоли
+[22:05:07] Модуль игрока инициализирован
+[22:05:07] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:05:38] filterscripts = ""  (string)
+[22:05:38] 
+[22:05:38] Server Plugins
+[22:05:38] --------------
+[22:05:38]  Loaded 0 plugins.
+
+[22:05:38] 
+[22:05:38] Filterscripts
+[22:05:38] ---------------
+[22:05:38]   Loaded 0 filterscripts.
+
+[22:05:38] Привет, я из консоли
+[22:05:38] Модуль игрока инициализирован
+[22:05:38] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:06:09] filterscripts = ""  (string)
+[22:06:09] 
+[22:06:09] Server Plugins
+[22:06:09] --------------
+[22:06:09]  Loaded 0 plugins.
+
+[22:06:09] 
+[22:06:09] Filterscripts
+[22:06:09] ---------------
+[22:06:09]   Loaded 0 filterscripts.
+
+[22:06:09] Привет, я из консоли
+[22:06:09] Модуль игрока инициализирован
+[22:06:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:06:36] filterscripts = ""  (string)
+[22:06:36] 
+[22:06:36] Server Plugins
+[22:06:36] --------------
+[22:06:36]  Loaded 0 plugins.
+
+[22:06:36] 
+[22:06:36] Filterscripts
+[22:06:36] ---------------
+[22:06:36]   Loaded 0 filterscripts.
+
+[22:06:36] Привет, я из консоли
+[22:06:36] Модуль игрока инициализирован
+[22:06:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:06:36] filterscripts = ""  (string)
+[22:06:36] 
+[22:06:36] Server Plugins
+[22:06:36] --------------
+[22:06:36]  Loaded 0 plugins.
+
+[22:06:36] 
+[22:06:36] Filterscripts
+[22:06:36] ---------------
+[22:06:36]   Loaded 0 filterscripts.
+
+[22:06:36] Привет, я из консоли
+[22:06:36] Модуль игрока инициализирован
+[22:06:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:07:20] filterscripts = ""  (string)
+[22:07:20] 
+[22:07:20] Server Plugins
+[22:07:20] --------------
+[22:07:20]  Loaded 0 plugins.
+
+[22:07:20] 
+[22:07:20] Filterscripts
+[22:07:20] ---------------
+[22:07:20]   Loaded 0 filterscripts.
+
+[22:07:20] Привет, я из консоли
+[22:07:20] Модуль игрока инициализирован
+[22:07:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:07:28] filterscripts = ""  (string)
+[22:07:28] 
+[22:07:28] Server Plugins
+[22:07:28] --------------
+[22:07:28]  Loaded 0 plugins.
+
+[22:07:28] 
+[22:07:28] Filterscripts
+[22:07:28] ---------------
+[22:07:28]   Loaded 0 filterscripts.
+
+[22:07:28] Привет, я из консоли
+[22:07:28] Модуль игрока инициализирован
+[22:07:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:08:44] filterscripts = ""  (string)
+[22:08:44] 
+[22:08:44] Server Plugins
+[22:08:44] --------------
+[22:08:44]  Loaded 0 plugins.
+
+[22:08:44] 
+[22:08:44] Filterscripts
+[22:08:44] ---------------
+[22:08:44]   Loaded 0 filterscripts.
+
+[22:08:44] Привет, я из консоли
+[22:08:44] Модуль игрока инициализирован
+[22:08:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:11:10] filterscripts = ""  (string)
+[22:11:10] 
+[22:11:10] Server Plugins
+[22:11:10] --------------
+[22:11:10]  Loaded 0 plugins.
+
+[22:11:10] 
+[22:11:10] Filterscripts
+[22:11:10] ---------------
+[22:11:10]   Loaded 0 filterscripts.
+
+[22:11:10] Привет, я из консоли
+[22:11:10] Модуль игрока инициализирован
+[22:11:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:12:06] filterscripts = ""  (string)
+[22:12:06] 
+[22:12:06] Server Plugins
+[22:12:06] --------------
+[22:12:06]  Loaded 0 plugins.
+
+[22:12:06] 
+[22:12:06] Filterscripts
+[22:12:06] ---------------
+[22:12:06]   Loaded 0 filterscripts.
+
+[22:12:06] Привет, я из консоли
+[22:12:06] Модуль игрока инициализирован
+[22:12:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:12:22] filterscripts = ""  (string)
+[22:12:22] 
+[22:12:22] Server Plugins
+[22:12:22] --------------
+[22:12:22]  Loaded 0 plugins.
+
+[22:12:22] 
+[22:12:22] Filterscripts
+[22:12:22] ---------------
+[22:12:22]   Loaded 0 filterscripts.
+
+[22:12:22] Привет, я из консоли
+[22:12:22] Модуль сервера инициализирован
+[22:12:22] Модуль игрока инициализирован
+[22:12:22] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:12:23] filterscripts = ""  (string)
+[22:12:23] 
+[22:12:23] Server Plugins
+[22:12:23] --------------
+[22:12:23]  Loaded 0 plugins.
+
+[22:12:23] 
+[22:12:23] Filterscripts
+[22:12:23] ---------------
+[22:12:23]   Loaded 0 filterscripts.
+
+[22:12:23] Привет, я из консоли
+[22:12:23] Модуль сервера инициализирован
+[22:12:23] Модуль игрока инициализирован
+[22:12:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:12:23] filterscripts = ""  (string)
+[22:12:23] 
+[22:12:23] Server Plugins
+[22:12:23] --------------
+[22:12:23]  Loaded 0 plugins.
+
+[22:12:23] 
+[22:12:23] Filterscripts
+[22:12:23] ---------------
+[22:12:23]   Loaded 0 filterscripts.
+
+[22:12:23] Привет, я из консоли
+[22:12:23] Модуль сервера инициализирован
+[22:12:23] Модуль игрока инициализирован
+[22:12:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:13:15] filterscripts = ""  (string)
+[22:13:15] 
+[22:13:15] Server Plugins
+[22:13:15] --------------
+[22:13:15]  Loaded 0 plugins.
+
+[22:13:15] 
+[22:13:15] Filterscripts
+[22:13:15] ---------------
+[22:13:15]   Loaded 0 filterscripts.
+
+[22:13:15] Привет, я из консоли
+[22:13:15] Модуль сервера инициализирован
+[22:13:15] Модуль игрока инициализирован
+[22:13:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:13:53] filterscripts = ""  (string)
+[22:13:53] 
+[22:13:53] Server Plugins
+[22:13:53] --------------
+[22:13:53]  Loaded 0 plugins.
+
+[22:13:53] 
+[22:13:53] Filterscripts
+[22:13:53] ---------------
+[22:13:53]   Loaded 0 filterscripts.
+
+[22:13:53] Привет, я из консоли
+[22:13:53] Модуль сервера инициализирован
+[22:13:53] Модуль игрока инициализирован
+[22:13:53] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:13:54] filterscripts = ""  (string)
+[22:13:54] 
+[22:13:54] Server Plugins
+[22:13:54] --------------
+[22:13:54]  Loaded 0 plugins.
+
+[22:13:54] 
+[22:13:54] Filterscripts
+[22:13:54] ---------------
+[22:13:54]   Loaded 0 filterscripts.
+
+[22:13:54] Привет, я из консоли
+[22:13:54] Модуль сервера инициализирован
+[22:13:54] Модуль игрока инициализирован
+[22:13:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:14:51] filterscripts = ""  (string)
+[22:14:51] 
+[22:14:51] Server Plugins
+[22:14:51] --------------
+[22:14:51]  Loaded 0 plugins.
+
+[22:14:51] 
+[22:14:51] Filterscripts
+[22:14:51] ---------------
+[22:14:51]   Loaded 0 filterscripts.
+
+[22:14:51] Привет, я из консоли
+[22:14:51] Модуль сервера инициализирован
+[22:14:51] Модуль игрока инициализирован
+[22:14:51] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:15:56] filterscripts = ""  (string)
+[22:15:56] 
+[22:15:56] Server Plugins
+[22:15:56] --------------
+[22:15:56]  Loaded 0 plugins.
+
+[22:15:56] 
+[22:15:56] Filterscripts
+[22:15:56] ---------------
+[22:15:56]   Loaded 0 filterscripts.
+
+[22:15:56] Привет, я из консоли
+[22:15:56] Модуль сервера инициализирован
+[22:15:56] Модуль игрока инициализирован
+[22:15:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:16:26] filterscripts = ""  (string)
+[22:16:26] 
+[22:16:26] Server Plugins
+[22:16:26] --------------
+[22:16:26]  Loaded 0 plugins.
+
+[22:16:26] 
+[22:16:26] Filterscripts
+[22:16:26] ---------------
+[22:16:26]   Loaded 0 filterscripts.
+
+[22:16:26] Привет, я из консоли
+[22:16:26] Модуль сервера инициализирован
+[22:16:26] Модуль игрока инициализирован
+[22:16:26] Имя сервера установлено: %s
+[22:16:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:16:26] filterscripts = ""  (string)
+[22:16:26] 
+[22:16:26] Server Plugins
+[22:16:26] --------------
+[22:16:26]  Loaded 0 plugins.
+
+[22:16:26] 
+[22:16:26] Filterscripts
+[22:16:26] ---------------
+[22:16:26]   Loaded 0 filterscripts.
+
+[22:16:26] Привет, я из консоли
+[22:16:26] Модуль сервера инициализирован
+[22:16:26] Модуль игрока инициализирован
+[22:16:26] Имя сервера установлено: %s
+[22:16:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:17:05] filterscripts = ""  (string)
+[22:17:05] 
+[22:17:05] Server Plugins
+[22:17:05] --------------
+[22:17:05]  Loaded 0 plugins.
+
+[22:17:05] 
+[22:17:05] Filterscripts
+[22:17:05] ---------------
+[22:17:05]   Loaded 0 filterscripts.
+
+[22:17:05] Привет, я из консоли
+[22:17:05] Модуль сервера инициализирован
+[22:17:05] Модуль игрока инициализирован
+[22:17:05] hostname = "SA-MP 0.3 Server"  (string)
+[22:17:05] Имя сервера установлено: 
+[22:17:05] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:17:45] filterscripts = ""  (string)
+[22:17:45] 
+[22:17:45] Server Plugins
+[22:17:45] --------------
+[22:17:45]  Loaded 0 plugins.
+
+[22:17:45] 
+[22:17:45] Filterscripts
+[22:17:45] ---------------
+[22:17:45]   Loaded 0 filterscripts.
+
+[22:17:45] Привет, я из консоли
+[22:17:45] Модуль сервера инициализирован
+[22:17:45] Модуль игрока инициализирован
+[22:17:45] Имя сервера установлено: hostname Сервер с нуля
+[22:17:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:18:21] filterscripts = ""  (string)
+[22:18:21] 
+[22:18:21] Server Plugins
+[22:18:21] --------------
+[22:18:21]  Loaded 0 plugins.
+
+[22:18:21] 
+[22:18:21] Filterscripts
+[22:18:21] ---------------
+[22:18:21]   Loaded 0 filterscripts.
+
+[22:18:21] Привет, я из консоли
+[22:18:21] Модуль сервера инициализирован
+[22:18:21] Модуль игрока инициализирован
+[22:18:21] Имя сервера установлено: Сервер с нуля
+[22:18:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:19:15] filterscripts = ""  (string)
+[22:19:15] 
+[22:19:15] Server Plugins
+[22:19:15] --------------
+[22:19:15]  Loaded 0 plugins.
+
+[22:19:15] 
+[22:19:15] Filterscripts
+[22:19:15] ---------------
+[22:19:15]   Loaded 0 filterscripts.
+
+[22:19:15] Привет, я из консоли
+[22:19:15] Модуль сервера инициализирован
+[22:19:15] Модуль игрока инициализирован
+[22:19:15] Имя сервера установлено: Сервер с нуля
+[22:19:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:19:28] filterscripts = ""  (string)
+[22:19:28] 
+[22:19:28] Server Plugins
+[22:19:28] --------------
+[22:19:28]  Loaded 0 plugins.
+
+[22:19:28] 
+[22:19:28] Filterscripts
+[22:19:28] ---------------
+[22:19:28]   Loaded 0 filterscripts.
+
+[22:19:28] Привет, я из консоли
+[22:19:28] Модуль сервера инициализирован
+[22:19:28] Модуль игрока инициализирован
+[22:19:28] Имя сервера установлено: Сервер с нуля
+[22:19:28] version = "0.3.7-R3"  (string, read-only)
+[22:19:28] Версия сервера установлена: 1.0.0
+[22:19:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:21:20] filterscripts = ""  (string)
+[22:21:20] 
+[22:21:20] Server Plugins
+[22:21:20] --------------
+[22:21:20]  Loaded 0 plugins.
+
+[22:21:20] 
+[22:21:20] Filterscripts
+[22:21:20] ---------------
+[22:21:20]   Loaded 0 filterscripts.
+
+[22:21:20] Привет, я из консоли
+[22:21:20] Модуль сервера инициализирован
+[22:21:20] Модуль игрока инициализирован
+[22:21:20] Имя сервера установлено: Сервер с нуля
+[22:21:20] Режим сервера установлен: 1.0.0
+[22:21:20] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:21:50] filterscripts = ""  (string)
+[22:21:50] 
+[22:21:50] Server Plugins
+[22:21:50] --------------
+[22:21:50]  Loaded 0 plugins.
+
+[22:21:50] 
+[22:21:50] Filterscripts
+[22:21:50] ---------------
+[22:21:50]   Loaded 0 filterscripts.
+
+[22:21:50] Привет, я из консоли
+[22:21:50] Модуль сервера инициализирован
+[22:21:50] Модуль игрока инициализирован
+[22:21:50] Имя сервера установлено: Сервер с нуля
+[22:21:50] Режим сервера установлен: 1.0.0
+[22:21:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:22:27] filterscripts = ""  (string)
+[22:22:27] 
+[22:22:27] Server Plugins
+[22:22:27] --------------
+[22:22:27]  Loaded 0 plugins.
+
+[22:22:27] 
+[22:22:27] Filterscripts
+[22:22:27] ---------------
+[22:22:27]   Loaded 0 filterscripts.
+
+[22:22:27] Привет, я из консоли
+[22:22:27] Модуль сервера инициализирован
+[22:22:27] Модуль игрока инициализирован
+[22:22:27] Имя сервера установлено: Сервер с нуля
+[22:22:27] Режим сервера установлен: 1.0.0
+[22:22:27] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:22:28] filterscripts = ""  (string)
+[22:22:28] 
+[22:22:28] Server Plugins
+[22:22:28] --------------
+[22:22:28]  Loaded 0 plugins.
+
+[22:22:28] 
+[22:22:28] Filterscripts
+[22:22:28] ---------------
+[22:22:28]   Loaded 0 filterscripts.
+
+[22:22:28] Привет, я из консоли
+[22:22:28] Модуль сервера инициализирован
+[22:22:28] Модуль игрока инициализирован
+[22:22:28] Имя сервера установлено: Сервер с нуля
+[22:22:28] Режим сервера установлен: 1.0.0
+[22:22:28] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:23:42] filterscripts = ""  (string)
+[22:23:42] 
+[22:23:42] Server Plugins
+[22:23:42] --------------
+[22:23:42]  Loaded 0 plugins.
+
+[22:23:42] 
+[22:23:42] Filterscripts
+[22:23:42] ---------------
+[22:23:42]   Loaded 0 filterscripts.
+
+[22:23:42] Привет, я из консоли
+[22:23:42] Модуль сервера инициализирован
+[22:23:42] Модуль игрока инициализирован
+[22:23:42] Имя сервера установлено: Сервер с нуля
+[22:23:42] Режим сервера установлен: 1.0.0
+[22:23:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:23:52] filterscripts = ""  (string)
+[22:23:52] 
+[22:23:52] Server Plugins
+[22:23:52] --------------
+[22:23:52]  Loaded 0 plugins.
+
+[22:23:52] 
+[22:23:52] Filterscripts
+[22:23:52] ---------------
+[22:23:52]   Loaded 0 filterscripts.
+
+[22:23:52] Привет, я из консоли
+[22:23:52] Модуль сервера инициализирован
+[22:23:52] Модуль игрока инициализирован
+[22:23:52] Имя сервера установлено: Сервер с нуля
+[22:23:52] Режим сервера установлен: 1.0.0
+[22:23:52] Карта сервера установлена: start_map
+[22:23:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:24:12] filterscripts = ""  (string)
+[22:24:12] 
+[22:24:12] Server Plugins
+[22:24:12] --------------
+[22:24:12]  Loaded 0 plugins.
+
+[22:24:12] 
+[22:24:12] Filterscripts
+[22:24:12] ---------------
+[22:24:12]   Loaded 0 filterscripts.
+
+[22:24:12] Привет, я из консоли
+[22:24:12] Модуль сервера инициализирован
+[22:24:12] Модуль игрока инициализирован
+[22:24:12] Имя сервера установлено: Сервер с нуля
+[22:24:12] Режим сервера установлен: 1.0.0
+[22:24:12] Карта сервера установлена: start_map
+[22:24:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:24:31] filterscripts = ""  (string)
+[22:24:31] 
+[22:24:31] Server Plugins
+[22:24:31] --------------
+[22:24:31]  Loaded 0 plugins.
+
+[22:24:31] 
+[22:24:31] Filterscripts
+[22:24:31] ---------------
+[22:24:31]   Loaded 0 filterscripts.
+
+[22:24:31] Привет, я из консоли
+[22:24:31] Модуль сервера инициализирован
+[22:24:31] Модуль игрока инициализирован
+[22:24:31] Имя сервера установлено: Сервер с нуля
+[22:24:31] Режим сервера установлен: 1.0.0
+[22:24:31] Карта сервера установлена: start_map
+[22:24:31] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:24:45] filterscripts = ""  (string)
+[22:24:45] 
+[22:24:45] Server Plugins
+[22:24:45] --------------
+[22:24:45]  Loaded 0 plugins.
+
+[22:24:45] 
+[22:24:45] Filterscripts
+[22:24:45] ---------------
+[22:24:45]   Loaded 0 filterscripts.
+
+[22:24:45] Привет, я из консоли
+[22:24:45] Модуль сервера инициализирован
+[22:24:45] Модуль игрока инициализирован
+[22:24:45] Имя сервера установлено: Сервер с нуля
+[22:24:45] Режим сервера установлен: 1.0.0
+[22:24:45] Карта сервера установлена: start_map
+[22:24:45] Язык сервера установлен: ru
+[22:24:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:24:45] filterscripts = ""  (string)
+[22:24:45] 
+[22:24:45] Server Plugins
+[22:24:45] --------------
+[22:24:45]  Loaded 0 plugins.
+
+[22:24:45] 
+[22:24:45] Filterscripts
+[22:24:45] ---------------
+[22:24:45]   Loaded 0 filterscripts.
+
+[22:24:45] Привет, я из консоли
+[22:24:45] Модуль сервера инициализирован
+[22:24:45] Модуль игрока инициализирован
+[22:24:45] Имя сервера установлено: Сервер с нуля
+[22:24:45] Режим сервера установлен: 1.0.0
+[22:24:45] Карта сервера установлена: start_map
+[22:24:45] Язык сервера установлен: ru
+[22:24:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:26:44] filterscripts = ""  (string)
+[22:26:44] 
+[22:26:44] Server Plugins
+[22:26:44] --------------
+[22:26:44]  Loaded 0 plugins.
+
+[22:26:44] 
+[22:26:44] Filterscripts
+[22:26:44] ---------------
+[22:26:44]   Loaded 0 filterscripts.
+
+[22:26:44] Привет, я из консоли
+[22:26:44] Модуль сервера инициализирован
+[22:26:44] Модуль игрока инициализирован
+[22:26:44] Имя сервера установлено: Сервер с нуля
+[22:26:44] Режим сервера установлен: 1.0.0
+[22:26:44] Карта сервера установлена: start_map
+[22:26:44] Язык сервера установлен: ru
+[22:26:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:26:47] filterscripts = ""  (string)
+[22:26:47] 
+[22:26:47] Server Plugins
+[22:26:47] --------------
+[22:26:47]  Loaded 0 plugins.
+
+[22:26:47] 
+[22:26:47] Filterscripts
+[22:26:47] ---------------
+[22:26:47]   Loaded 0 filterscripts.
+
+[22:26:47] Привет, я из консоли
+[22:26:47] Модуль сервера инициализирован
+[22:26:47] Модуль игрока инициализирован
+[22:26:47] Имя сервера установлено: Сервер с нуля
+[22:26:47] Режим сервера установлен: 1.0.0
+[22:26:47] Карта сервера установлена: start_map
+[22:26:47] Язык сервера установлен: ru
+[22:26:47] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:27:10] filterscripts = ""  (string)
+[22:27:10] 
+[22:27:10] Server Plugins
+[22:27:10] --------------
+[22:27:10]  Loaded 0 plugins.
+
+[22:27:10] 
+[22:27:10] Filterscripts
+[22:27:10] ---------------
+[22:27:10]   Loaded 0 filterscripts.
+
+[22:27:10] Привет, я из консоли
+[22:27:10] Модуль сервера инициализирован
+[22:27:10] Модуль игрока инициализирован
+[22:27:10] Имя сервера установлено: Сервер с нуля
+[22:27:10] Режим сервера установлен: 1.0.0
+[22:27:10] Карта сервера установлена: start_map
+[22:27:10] Язык сервера установлен: ru
+[22:27:10] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:28:15] filterscripts = ""  (string)
+[22:28:15] 
+[22:28:15] Server Plugins
+[22:28:15] --------------
+[22:28:15]  Loaded 0 plugins.
+
+[22:28:15] 
+[22:28:15] Filterscripts
+[22:28:15] ---------------
+[22:28:15]   Loaded 0 filterscripts.
+
+[22:28:15] Привет, я из консоли
+[22:28:15] Модуль сервера инициализирован
+[22:28:15] Модуль игрока инициализирован
+[22:28:15] Имя сервера установлено: Сервер с нуля
+[22:28:15] Режим сервера установлен: 1.0.0
+[22:28:15] Карта сервера установлена: start_map
+[22:28:15] Язык сервера установлен: ru
+[22:28:15] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:28:26] filterscripts = ""  (string)
+[22:28:26] 
+[22:28:26] Server Plugins
+[22:28:26] --------------
+[22:28:26]  Loaded 0 plugins.
+
+[22:28:26] 
+[22:28:26] Filterscripts
+[22:28:26] ---------------
+[22:28:26]   Loaded 0 filterscripts.
+
+[22:28:26] Привет, я из консоли
+[22:28:26] Модуль сервера инициализирован
+[22:28:26] Модуль игрока инициализирован
+[22:28:26] Имя сервера установлено: Сервер с нуля
+[22:28:26] Режим сервера установлен: 1.0.0
+[22:28:26] Карта сервера установлена: start_map
+[22:28:26] Язык сервера установлен: ru
+[22:28:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:29:36] filterscripts = ""  (string)
+[22:29:36] 
+[22:29:36] Server Plugins
+[22:29:36] --------------
+[22:29:36]  Loaded 0 plugins.
+
+[22:29:36] 
+[22:29:36] Filterscripts
+[22:29:36] ---------------
+[22:29:36]   Loaded 0 filterscripts.
+
+[22:29:36] Привет, я из консоли
+[22:29:36] Модуль сервера инициализирован
+[22:29:36] Модуль игрока инициализирован
+[22:29:36] Имя сервера установлено: Сервер с нуля
+[22:29:36] Режим сервера установлен: 1.0.0
+[22:29:36] Карта сервера установлена: start_map
+[22:29:36] Язык сервера установлен: ru
+[22:29:36] Модуль базы данных инициализирован
+[22:29:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:29:45] filterscripts = ""  (string)
+[22:29:45] 
+[22:29:45] Server Plugins
+[22:29:45] --------------
+[22:29:45]  Loaded 0 plugins.
+
+[22:29:45] 
+[22:29:45] Filterscripts
+[22:29:45] ---------------
+[22:29:45]   Loaded 0 filterscripts.
+
+[22:29:45] Привет, я из консоли
+[22:29:45] Модуль сервера инициализирован
+[22:29:45] Модуль игрока инициализирован
+[22:29:45] Имя сервера установлено: Сервер с нуля
+[22:29:45] Режим сервера установлен: 1.0.0
+[22:29:45] Карта сервера установлена: start_map
+[22:29:45] Язык сервера установлен: ru
+[22:29:45] Модуль базы данных инициализирован
+[22:29:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:29:52] filterscripts = ""  (string)
+[22:29:52] 
+[22:29:52] Server Plugins
+[22:29:52] --------------
+[22:29:52]  Loaded 0 plugins.
+
+[22:29:52] 
+[22:29:52] Filterscripts
+[22:29:52] ---------------
+[22:29:52]   Loaded 0 filterscripts.
+
+[22:29:52] Привет, я из консоли
+[22:29:52] Модуль сервера инициализирован
+[22:29:52] Модуль игрока инициализирован
+[22:29:52] Имя сервера установлено: Сервер с нуля
+[22:29:52] Режим сервера установлен: 1.0.0
+[22:29:52] Карта сервера установлена: start_map
+[22:29:52] Язык сервера установлен: ru
+[22:29:52] Модуль базы данных инициализирован
+[22:29:52] Подключение к базе данных успешно
+[22:29:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:30:03] filterscripts = ""  (string)
+[22:30:03] 
+[22:30:03] Server Plugins
+[22:30:03] --------------
+[22:30:03]  Loaded 0 plugins.
+
+[22:30:03] 
+[22:30:03] Filterscripts
+[22:30:03] ---------------
+[22:30:03]   Loaded 0 filterscripts.
+
+[22:30:03] Привет, я из консоли
+[22:30:03] Модуль сервера инициализирован
+[22:30:03] Модуль игрока инициализирован
+[22:30:03] Имя сервера установлено: Сервер с нуля
+[22:30:03] Режим сервера установлен: 1.0.0
+[22:30:03] Карта сервера установлена: start_map
+[22:30:03] Язык сервера установлен: ru
+[22:30:03] Модуль базы данных инициализирован
+[22:30:03] Подключение к базе данных успешно
+[22:30:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:33:30] filterscripts = ""  (string)
+[22:33:30] 
+[22:33:30] Server Plugins
+[22:33:30] --------------
+[22:33:30]  Loading plugin: mysql.dll
+[22:33:30]  >> plugin.mysql: R41-4 successfully loaded.
+[22:33:30]   Loaded.
+[22:33:30]  Loaded 1 plugins.
+
+[22:33:30] 
+[22:33:30] Filterscripts
+[22:33:30] ---------------
+[22:33:30]   Loaded 0 filterscripts.
+
+[22:33:30] Привет, я из консоли
+[22:33:30] Модуль сервера инициализирован
+[22:33:30] Модуль игрока инициализирован
+[22:33:30] Имя сервера установлено: Сервер с нуля
+[22:33:30] Режим сервера установлен: 1.0.0
+[22:33:30] Карта сервера установлена: start_map
+[22:33:30] Язык сервера установлен: ru
+[22:33:30] Модуль базы данных инициализирован
+[22:33:30] Подключение к базе данных успешно
+[22:33:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:33:30] filterscripts = ""  (string)
+[22:33:30] 
+[22:33:30] Server Plugins
+[22:33:30] --------------
+[22:33:30]  Loading plugin: mysql.dll
+[22:33:30]  >> plugin.mysql: R41-4 successfully loaded.
+[22:33:30]   Loaded.
+[22:33:30]  Loaded 1 plugins.
+
+[22:33:30] 
+[22:33:30] Filterscripts
+[22:33:30] ---------------
+[22:33:30]   Loaded 0 filterscripts.
+
+[22:33:30] Привет, я из консоли
+[22:33:30] Модуль сервера инициализирован
+[22:33:30] Модуль игрока инициализирован
+[22:33:30] Имя сервера установлено: Сервер с нуля
+[22:33:30] Режим сервера установлен: 1.0.0
+[22:33:30] Карта сервера установлена: start_map
+[22:33:30] Язык сервера установлен: ru
+[22:33:30] Модуль базы данных инициализирован
+[22:33:30] Подключение к базе данных успешно
+[22:33:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:34:21] filterscripts = ""  (string)
+[22:34:21] 
+[22:34:21] Server Plugins
+[22:34:21] --------------
+[22:34:21]  Loading plugin: mysql.dll
+[22:34:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:34:21]   Loaded.
+[22:34:21]  Loaded 1 plugins.
+
+[22:34:21] 
+[22:34:21] Filterscripts
+[22:34:21] ---------------
+[22:34:21]   Loaded 0 filterscripts.
+
+[22:34:21] Привет, я из консоли
+[22:34:21] Модуль сервера инициализирован
+[22:34:21] Модуль игрока инициализирован
+[22:34:21] Имя сервера установлено: Сервер с нуля
+[22:34:21] Режим сервера установлен: 1.0.0
+[22:34:21] Карта сервера установлена: start_map
+[22:34:21] Язык сервера установлен: ru
+[22:34:21] Модуль базы данных инициализирован
+[22:34:21] Ошибка подключения к базе данных
+[22:34:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:34:43] filterscripts = ""  (string)
+[22:34:43] 
+[22:34:43] Server Plugins
+[22:34:43] --------------
+[22:34:43]  Loading plugin: mysql.dll
+[22:34:43]  >> plugin.mysql: R41-4 successfully loaded.
+[22:34:43]   Loaded.
+[22:34:43]  Loaded 1 plugins.
+
+[22:34:43] 
+[22:34:43] Filterscripts
+[22:34:43] ---------------
+[22:34:43]   Loaded 0 filterscripts.
+
+[22:34:43] Привет, я из консоли
+[22:34:43] Модуль сервера инициализирован
+[22:34:43] Модуль игрока инициализирован
+[22:34:43] Имя сервера установлено: Сервер с нуля
+[22:34:43] Режим сервера установлен: 1.0.0
+[22:34:43] Карта сервера установлена: start_map
+[22:34:43] Язык сервера установлен: ru
+[22:34:43] Модуль базы данных инициализирован
+[22:34:43] Ошибка подключения к базе данных
+[22:34:43] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:35:42] filterscripts = ""  (string)
+[22:35:42] 
+[22:35:42] Server Plugins
+[22:35:42] --------------
+[22:35:42]  Loading plugin: mysql.dll
+[22:35:42]  >> plugin.mysql: R41-4 successfully loaded.
+[22:35:42]   Loaded.
+[22:35:42]  Loaded 1 plugins.
+
+[22:35:42] 
+[22:35:42] Filterscripts
+[22:35:42] ---------------
+[22:35:42]   Loaded 0 filterscripts.
+
+[22:35:42] Привет, я из консоли
+[22:35:42] Модуль сервера инициализирован
+[22:35:42] Модуль игрока инициализирован
+[22:35:42] Имя сервера установлено: Сервер с нуля
+[22:35:42] Режим сервера установлен: 1.0.0
+[22:35:42] Карта сервера установлена: start_map
+[22:35:42] Язык сервера установлен: ru
+[22:35:42] Модуль базы данных инициализирован
+[22:35:42] Ошибка подключения к базе данных
+[22:35:42] Подключение к базе данных успешно
+[22:35:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:36:03] filterscripts = ""  (string)
+[22:36:03] 
+[22:36:03] Server Plugins
+[22:36:03] --------------
+[22:36:03]  Loading plugin: mysql.dll
+[22:36:03]  >> plugin.mysql: R41-4 successfully loaded.
+[22:36:03]   Loaded.
+[22:36:03]  Loaded 1 plugins.
+
+[22:36:03] 
+[22:36:03] Filterscripts
+[22:36:03] ---------------
+[22:36:03]   Loaded 0 filterscripts.
+
+[22:36:03] Привет, я из консоли
+[22:36:03] Модуль сервера инициализирован
+[22:36:03] Модуль игрока инициализирован
+[22:36:03] Имя сервера установлено: Сервер с нуля
+[22:36:03] Режим сервера установлен: 1.0.0
+[22:36:03] Карта сервера установлена: start_map
+[22:36:03] Язык сервера установлен: ru
+[22:36:03] Модуль базы данных инициализирован
+[22:36:03] Ошибка подключения к базе данных
+[22:36:03] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:36:09] filterscripts = ""  (string)
+[22:36:09] 
+[22:36:09] Server Plugins
+[22:36:09] --------------
+[22:36:09]  Loading plugin: mysql.dll
+[22:36:09]  >> plugin.mysql: R41-4 successfully loaded.
+[22:36:09]   Loaded.
+[22:36:09]  Loaded 1 plugins.
+
+[22:36:09] 
+[22:36:09] Filterscripts
+[22:36:09] ---------------
+[22:36:09]   Loaded 0 filterscripts.
+
+[22:36:09] Привет, я из консоли
+[22:36:09] Модуль сервера инициализирован
+[22:36:09] Модуль игрока инициализирован
+[22:36:09] Имя сервера установлено: Сервер с нуля
+[22:36:09] Режим сервера установлен: 1.0.0
+[22:36:09] Карта сервера установлена: start_map
+[22:36:09] Язык сервера установлен: ru
+[22:36:09] Модуль базы данных инициализирован
+[22:36:09] Ошибка подключения к базе данных
+[22:36:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:36:55] filterscripts = ""  (string)
+[22:36:55] 
+[22:36:55] Server Plugins
+[22:36:55] --------------
+[22:36:55]  Loading plugin: mysql.dll
+[22:36:55]  >> plugin.mysql: R41-4 successfully loaded.
+[22:36:55]   Loaded.
+[22:36:55]  Loaded 1 plugins.
+
+[22:36:55] 
+[22:36:55] Filterscripts
+[22:36:55] ---------------
+[22:36:55]   Loaded 0 filterscripts.
+
+[22:36:55] Привет, я из консоли
+[22:36:55] [SERVER] MODULE STARTED
+[22:36:55] Модуль игрока инициализирован
+[22:36:55] Имя сервера установлено: Сервер с нуля
+[22:36:55] Режим сервера установлен: 1.0.0
+[22:36:55] Карта сервера установлена: start_map
+[22:36:55] Язык сервера установлен: ru
+[22:36:55] Модуль базы данных инициализирован
+[22:36:55] Ошибка подключения к базе данных
+[22:36:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:37:13] filterscripts = ""  (string)
+[22:37:13] 
+[22:37:13] Server Plugins
+[22:37:13] --------------
+[22:37:13]  Loading plugin: mysql.dll
+[22:37:13]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:13]   Loaded.
+[22:37:13]  Loaded 1 plugins.
+
+[22:37:13] 
+[22:37:13] Filterscripts
+[22:37:13] ---------------
+[22:37:13]   Loaded 0 filterscripts.
+
+[22:37:13] Привет, я из консоли
+[22:37:13] [SERVER] MODULE STARTED
+[22:37:13] Модуль игрока инициализирован
+[22:37:13] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:37:13] [SERVER] Режим сервера установлен: 1.0.0
+[22:37:13] [SERVER] Карта сервера установлена: start_map
+[22:37:13] [SERVER] Язык сервера установлен: ru
+[22:37:13] Модуль базы данных инициализирован
+[22:37:13] Ошибка подключения к базе данных
+[22:37:13] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:37:25] filterscripts = ""  (string)
+[22:37:25] 
+[22:37:25] Server Plugins
+[22:37:25] --------------
+[22:37:25]  Loading plugin: mysql.dll
+[22:37:25]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:25]   Loaded.
+[22:37:25]  Loaded 1 plugins.
+
+[22:37:25] 
+[22:37:25] Filterscripts
+[22:37:25] ---------------
+[22:37:25]   Loaded 0 filterscripts.
+
+[22:37:25] Привет, я из консоли
+[22:37:25] [SERVER] MODULE STARTED
+[22:37:25] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:37:25] [SERVER] Режим сервера установлен: 1.0.0
+[22:37:25] [SERVER] Карта сервера установлена: start_map
+[22:37:25] [SERVER] Язык сервера установлен: ru
+[22:37:25] Модуль базы данных инициализирован
+[22:37:25] Ошибка подключения к базе данных
+[22:37:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:37:30] filterscripts = ""  (string)
+[22:37:30] 
+[22:37:30] Server Plugins
+[22:37:30] --------------
+[22:37:30]  Loading plugin: mysql.dll
+[22:37:30]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:30]   Loaded.
+[22:37:30]  Loaded 1 plugins.
+
+[22:37:30] 
+[22:37:30] Filterscripts
+[22:37:30] ---------------
+[22:37:30]   Loaded 0 filterscripts.
+
+[22:37:30] [SERVER] MODULE STARTED
+[22:37:30] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:37:30] [SERVER] Режим сервера установлен: 1.0.0
+[22:37:30] [SERVER] Карта сервера установлена: start_map
+[22:37:30] [SERVER] Язык сервера установлен: ru
+[22:37:30] Модуль базы данных инициализирован
+[22:37:30] Ошибка подключения к базе данных
+[22:37:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:37:56] filterscripts = ""  (string)
+[22:37:56] 
+[22:37:56] Server Plugins
+[22:37:56] --------------
+[22:37:56]  Loading plugin: mysql.dll
+[22:37:56]  >> plugin.mysql: R41-4 successfully loaded.
+[22:37:56]   Loaded.
+[22:37:56]  Loaded 1 plugins.
+
+[22:37:56] 
+[22:37:56] Filterscripts
+[22:37:56] ---------------
+[22:37:56]   Loaded 0 filterscripts.
+
+[22:37:56] [SERVER] MODULE STARTED
+[22:37:56] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:37:56] [SERVER] Режим сервера установлен: 1.0.0
+[22:37:56] [SERVER] Карта сервера установлена: start_map
+[22:37:56] [SERVER] Язык сервера установлен: ru
+[22:37:56] [DATABASE] MODULE STARTED
+[22:37:56] [DATABASE] Ошибка подключения к базе данных
+[22:37:56] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:38:39] filterscripts = ""  (string)
+[22:38:39] 
+[22:38:39] Server Plugins
+[22:38:39] --------------
+[22:38:39]  Loading plugin: mysql.dll
+[22:38:39]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:39]   Loaded.
+[22:38:39]  Loaded 1 plugins.
+
+[22:38:39] 
+[22:38:39] Filterscripts
+[22:38:39] ---------------
+[22:38:39]   Loaded 0 filterscripts.
+
+[22:38:39] [SERVER] MODULE STARTED
+[22:38:39] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:38:39] [SERVER] Режим сервера установлен: 1.0.0
+[22:38:39] [SERVER] Карта сервера установлена: start_map
+[22:38:39] [SERVER] Язык сервера установлен: ru
+[22:38:39] [DATABASE] MODULE STARTED
+[22:38:39] [DATABASE] Ошибка подключения к базе данных - 
+[22:38:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:38:46] filterscripts = ""  (string)
+[22:38:46] 
+[22:38:46] Server Plugins
+[22:38:46] --------------
+[22:38:46]  Loading plugin: mysql.dll
+[22:38:46]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:46]   Loaded.
+[22:38:46]  Loaded 1 plugins.
+
+[22:38:46] 
+[22:38:46] Filterscripts
+[22:38:46] ---------------
+[22:38:46]   Loaded 0 filterscripts.
+
+[22:38:46] [SERVER] MODULE STARTED
+[22:38:46] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:38:46] [SERVER] Режим сервера установлен: 1.0.0
+[22:38:46] [SERVER] Карта сервера установлена: start_map
+[22:38:46] [SERVER] Язык сервера установлен: ru
+[22:38:46] [DATABASE] MODULE STARTED
+[22:38:46] [DATABASE] Ошибка подключения к базе данных - 1045
+[22:38:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:38:52] filterscripts = ""  (string)
+[22:38:52] 
+[22:38:52] Server Plugins
+[22:38:52] --------------
+[22:38:52]  Loading plugin: mysql.dll
+[22:38:52]  >> plugin.mysql: R41-4 successfully loaded.
+[22:38:52]   Loaded.
+[22:38:52]  Loaded 1 plugins.
+
+[22:38:52] 
+[22:38:52] Filterscripts
+[22:38:52] ---------------
+[22:38:52]   Loaded 0 filterscripts.
+
+[22:38:52] [SERVER] MODULE STARTED
+[22:38:52] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:38:52] [SERVER] Режим сервера установлен: 1.0.0
+[22:38:52] [SERVER] Карта сервера установлена: start_map
+[22:38:52] [SERVER] Язык сервера установлен: ru
+[22:38:52] [DATABASE] MODULE STARTED
+[22:38:52] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:38:52] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:21] filterscripts = ""  (string)
+[22:39:21] 
+[22:39:21] Server Plugins
+[22:39:21] --------------
+[22:39:21]  Loading plugin: mysql.dll
+[22:39:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:21]   Loaded.
+[22:39:21]  Loaded 1 plugins.
+
+[22:39:21] 
+[22:39:21] Filterscripts
+[22:39:21] ---------------
+[22:39:21]   Loaded 0 filterscripts.
+
+[22:39:21] ---------------------- [SERVER] MODULE STARTED
+[22:39:21] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:21] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:21] [SERVER] Карта сервера установлена: start_map
+[22:39:21] [SERVER] Язык сервера установлен: ru
+[22:39:21] [DATABASE] MODULE STARTED
+[22:39:21] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:26] filterscripts = ""  (string)
+[22:39:26] 
+[22:39:26] Server Plugins
+[22:39:26] --------------
+[22:39:26]  Loading plugin: mysql.dll
+[22:39:26]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:26]   Loaded.
+[22:39:26]  Loaded 1 plugins.
+
+[22:39:26] 
+[22:39:26] Filterscripts
+[22:39:26] ---------------
+[22:39:26]   Loaded 0 filterscripts.
+
+[22:39:26] ---------------------- [SERVER] MODULE STARTED
+[22:39:26] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:26] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:26] [SERVER] Карта сервера установлена: start_map
+[22:39:26] [SERVER] Язык сервера установлен: ru
+[22:39:26] ---------------------- [DATABASE] MODULE STARTED
+[22:39:26] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:32] filterscripts = ""  (string)
+[22:39:32] 
+[22:39:32] Server Plugins
+[22:39:32] --------------
+[22:39:32]  Loading plugin: mysql.dll
+[22:39:32]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:32]   Loaded.
+[22:39:32]  Loaded 1 plugins.
+
+[22:39:32] 
+[22:39:32] Filterscripts
+[22:39:32] ---------------
+[22:39:32]   Loaded 0 filterscripts.
+
+[22:39:32] ---------------------- [SERVER] MODULE STARTED
+[22:39:32] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:32] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:32] [SERVER] Карта сервера установлена: start_map
+[22:39:32] [SERVER] Язык сервера установлен: ru
+[22:39:32] [DATABASE] MODULE STARTED
+[22:39:32] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:34] filterscripts = ""  (string)
+[22:39:34] 
+[22:39:34] Server Plugins
+[22:39:34] --------------
+[22:39:34]  Loading plugin: mysql.dll
+[22:39:34]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:34]   Loaded.
+[22:39:34]  Loaded 1 plugins.
+
+[22:39:34] 
+[22:39:34] Filterscripts
+[22:39:34] ---------------
+[22:39:34]   Loaded 0 filterscripts.
+
+[22:39:34] ---------------------- [SERVER] MODULE STARTED
+[22:39:34] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:34] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:34] [SERVER] Карта сервера установлена: start_map
+[22:39:34] [SERVER] Язык сервера установлен: ru
+[22:39:34] [DATABASE] MODULE STARTED ---------------------- 
+[22:39:34] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:34] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:39] filterscripts = ""  (string)
+[22:39:39] 
+[22:39:39] Server Plugins
+[22:39:39] --------------
+[22:39:39]  Loading plugin: mysql.dll
+[22:39:39]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:39]   Loaded.
+[22:39:39]  Loaded 1 plugins.
+
+[22:39:39] 
+[22:39:39] Filterscripts
+[22:39:39] ---------------
+[22:39:39]   Loaded 0 filterscripts.
+
+[22:39:39] ---------------------- [SERVER] MODULE STARTED
+[22:39:39] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:39] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:39] [SERVER] Карта сервера установлена: start_map
+[22:39:39] [SERVER] Язык сервера установлен: ru
+[22:39:39] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:39:39] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:39:48] filterscripts = ""  (string)
+[22:39:48] 
+[22:39:48] Server Plugins
+[22:39:48] --------------
+[22:39:48]  Loading plugin: mysql.dll
+[22:39:48]  >> plugin.mysql: R41-4 successfully loaded.
+[22:39:48]   Loaded.
+[22:39:48]  Loaded 1 plugins.
+
+[22:39:49] 
+[22:39:49] Filterscripts
+[22:39:49] ---------------
+[22:39:49]   Loaded 0 filterscripts.
+
+[22:39:49] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:39:49] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:39:49] [SERVER] Режим сервера установлен: 1.0.0
+[22:39:49] [SERVER] Карта сервера установлена: start_map
+[22:39:49] [SERVER] Язык сервера установлен: ru
+[22:39:49] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:39:49] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:39:49] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:40:30] filterscripts = ""  (string)
+[22:40:30] 
+[22:40:30] Server Plugins
+[22:40:30] --------------
+[22:40:30]  Loading plugin: mysql.dll
+[22:40:30]  >> plugin.mysql: R41-4 successfully loaded.
+[22:40:30]   Loaded.
+[22:40:30]  Loaded 1 plugins.
+
+[22:40:30] 
+[22:40:30] Filterscripts
+[22:40:30] ---------------
+[22:40:30]   Loaded 0 filterscripts.
+
+[22:40:30] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:40:30] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:40:30] [SERVER] Режим сервера установлен: 1.0.0
+[22:40:30] [SERVER] Карта сервера установлена: start_map
+[22:40:30] [SERVER] Язык сервера установлен: ru
+[22:40:30] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:40:30] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:40:30] ------------------------------------------------------------------ 
+[22:40:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:40:44] filterscripts = ""  (string)
+[22:40:44] 
+[22:40:44] Server Plugins
+[22:40:44] --------------
+[22:40:44]  Loading plugin: mysql.dll
+[22:40:44]  >> plugin.mysql: R41-4 successfully loaded.
+[22:40:44]   Loaded.
+[22:40:44]  Loaded 1 plugins.
+
+[22:40:44] 
+[22:40:44] Filterscripts
+[22:40:44] ---------------
+[22:40:44]   Loaded 0 filterscripts.
+
+[22:40:44] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:40:44] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:40:44] [SERVER] Режим сервера установлен: 1.0.0
+[22:40:44] [SERVER] Карта сервера установлена: start_map
+[22:40:44] [SERVER] Язык сервера установлен: ru
+[22:40:44] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:40:44] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:40:44] -----------------------------------------------------------------------------------
+[22:40:44] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:41:08] filterscripts = ""  (string)
+[22:41:08] 
+[22:41:08] Server Plugins
+[22:41:08] --------------
+[22:41:08]  Loading plugin: mysql.dll
+[22:41:08]  >> plugin.mysql: R41-4 successfully loaded.
+[22:41:08]   Loaded.
+[22:41:08]  Loaded 1 plugins.
+
+[22:41:08] 
+[22:41:08] Filterscripts
+[22:41:08] ---------------
+[22:41:08]   Loaded 0 filterscripts.
+
+[22:41:08] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:41:08] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:41:08] [SERVER] Режим сервера установлен: 1.0.0
+[22:41:08] [SERVER] Карта сервера установлена: start_map
+[22:41:08] [SERVER] Язык сервера установлен: ru
+[22:41:08] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:41:08] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:41:08] ----------------------------------------- [END LOAD]------------------------------------
+[22:41:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:41:33] filterscripts = ""  (string)
+[22:41:33] 
+[22:41:33] Server Plugins
+[22:41:33] --------------
+[22:41:33]  Loading plugin: mysql.dll
+[22:41:33]  >> plugin.mysql: R41-4 successfully loaded.
+[22:41:33]   Loaded.
+[22:41:33]  Loaded 1 plugins.
+
+[22:41:33] 
+[22:41:33] Filterscripts
+[22:41:33] ---------------
+[22:41:33]   Loaded 0 filterscripts.
+
+[22:41:33] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:41:33] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:41:33] [SERVER] Режим сервера установлен: 1.0.0
+[22:41:33] [SERVER] Карта сервера установлена: start_map
+[22:41:33] [SERVER] Язык сервера установлен: ru
+[22:41:33] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:41:33] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:41:33] ----------------------  [END LOAD] 	------------------------------------
+[22:41:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:41:36] filterscripts = ""  (string)
+[22:41:36] 
+[22:41:36] Server Plugins
+[22:41:36] --------------
+[22:41:36]  Loading plugin: mysql.dll
+[22:41:36]  >> plugin.mysql: R41-4 successfully loaded.
+[22:41:36]   Loaded.
+[22:41:36]  Loaded 1 plugins.
+
+[22:41:36] 
+[22:41:36] Filterscripts
+[22:41:36] ---------------
+[22:41:36]   Loaded 0 filterscripts.
+
+[22:41:36] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:41:36] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:41:36] [SERVER] Режим сервера установлен: 1.0.0
+[22:41:36] [SERVER] Карта сервера установлена: start_map
+[22:41:36] [SERVER] Язык сервера установлен: ru
+[22:41:36] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:41:36] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:41:36] ----------------------  [END LOAD] ------------------------------------
+[22:41:36] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:42:25] filterscripts = ""  (string)
+[22:42:25] 
+[22:42:25] Server Plugins
+[22:42:25] --------------
+[22:42:25]  Loading plugin: mysql.dll
+[22:42:25]  >> plugin.mysql: R41-4 successfully loaded.
+[22:42:25]   Loaded.
+[22:42:25]  Loaded 1 plugins.
+
+[22:42:25] 
+[22:42:25] Filterscripts
+[22:42:25] ---------------
+[22:42:25]   Loaded 0 filterscripts.
+
+[22:42:25] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:42:25] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:42:25] [SERVER] Режим сервера установлен: 1.0.0
+[22:42:25] [SERVER] Карта сервера установлена: start_map
+[22:42:25] [SERVER] Язык сервера установлен: ru
+[22:42:25] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:42:25] [DATABASE] Ошибка подключения к базе данных - #1045
+[22:42:25] ----------------------  [END LOAD] ------------------------------------
+[22:42:25] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:48:42] filterscripts = ""  (string)
+[22:48:42] 
+[22:48:42] Server Plugins
+[22:48:42] --------------
+[22:48:42]  Loading plugin: mysql.dll
+[22:48:42]  >> plugin.mysql: R41-4 successfully loaded.
+[22:48:42]   Loaded.
+[22:48:42]  Loaded 1 plugins.
+
+[22:48:42] 
+[22:48:42] Filterscripts
+[22:48:42] ---------------
+[22:48:42]   Loaded 0 filterscripts.
+
+[22:48:42] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:48:42] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:48:42] [SERVER] Режим сервера установлен: 1.0.0
+[22:48:42] [SERVER] Карта сервера установлена: start_map
+[22:48:42] [SERVER] Язык сервера установлен: ru
+[22:48:42] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:48:42] [DATABASE] Подключение к базе данных успешно установлено
+[22:48:42] ----------------------  [END LOAD] ------------------------------------
+[22:48:42] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:49:02] filterscripts = ""  (string)
+[22:49:02] 
+[22:49:02] Server Plugins
+[22:49:02] --------------
+[22:49:02]  Loading plugin: mysql.dll
+[22:49:02]  >> plugin.mysql: R41-4 successfully loaded.
+[22:49:02]   Loaded.
+[22:49:02]  Loaded 1 plugins.
+
+[22:49:02] 
+[22:49:02] Filterscripts
+[22:49:02] ---------------
+[22:49:02]   Loaded 0 filterscripts.
+
+[22:49:02] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:49:02] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:49:02] [SERVER] Режим сервера установлен: 1.0.0
+[22:49:02] [SERVER] Карта сервера установлена: start_map
+[22:49:02] [SERVER] Язык сервера установлен: ru
+[22:49:02] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:49:02] [DATABASE] Подключение к базе данных успешно установлено
+[22:49:02] ----------------------  [END LOAD] ------------------------------------
+[22:49:02] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:50:00] filterscripts = ""  (string)
+[22:50:00] 
+[22:50:00] Server Plugins
+[22:50:00] --------------
+[22:50:00]  Loading plugin: mysql.dll
+[22:50:00]  >> plugin.mysql: R41-4 successfully loaded.
+[22:50:00]   Loaded.
+[22:50:00]  Loaded 1 plugins.
+
+[22:50:00] 
+[22:50:00] Filterscripts
+[22:50:00] ---------------
+[22:50:00]   Loaded 0 filterscripts.
+
+[22:50:00] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:50:00] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:50:00] [SERVER] Режим сервера установлен: 1.0.0
+[22:50:00] [SERVER] Карта сервера установлена: start_map
+[22:50:00] [SERVER] Язык сервера установлен: ru
+[22:50:00] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:50:00] [DATABASE] Подключение к базе данных успешно установлено
+[22:50:00] ----------------------  [END LOAD] ------------------------------------
+[22:50:00] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:51:57] filterscripts = ""  (string)
+[22:51:57] 
+[22:51:57] Server Plugins
+[22:51:57] --------------
+[22:51:57]  Loading plugin: mysql.dll
+[22:51:57]  >> plugin.mysql: R41-4 successfully loaded.
+[22:51:57]   Loaded.
+[22:51:57]  Loaded 1 plugins.
+
+[22:51:57] 
+[22:51:57] Filterscripts
+[22:51:57] ---------------
+[22:51:57]   Loaded 0 filterscripts.
+
+[22:51:57] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:51:57] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:51:57] [SERVER] Режим сервера установлен: 1.0.0
+[22:51:57] [SERVER] Карта сервера установлена: start_map
+[22:51:57] [SERVER] Язык сервера установлен: ru
+[22:51:57] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:51:57] [DATABASE] Подключение к базе данных успешно установлено
+[22:51:57] ----------------------  [END LOAD] ------------------------------------
+[22:51:57] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:54:17] filterscripts = ""  (string)
+[22:54:17] 
+[22:54:17] Server Plugins
+[22:54:17] --------------
+[22:54:17]  Loading plugin: mysql.dll
+[22:54:17]  >> plugin.mysql: R41-4 successfully loaded.
+[22:54:17]   Loaded.
+[22:54:17]  Loaded 1 plugins.
+
+[22:54:17] 
+[22:54:17] Filterscripts
+[22:54:17] ---------------
+[22:54:17]   Loaded 0 filterscripts.
+
+[22:54:17] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:54:17] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:54:17] [SERVER] Режим сервера установлен: 1.0.0
+[22:54:17] [SERVER] Карта сервера установлена: start_map
+[22:54:17] [SERVER] Язык сервера установлен: ru
+[22:54:17] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:54:17] [DATABASE] Подключение к базе данных успешно установлено
+[22:54:17] ----------------------  [END LOAD] ------------------------------------
+[22:54:17] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[22:58:29] filterscripts = ""  (string)
+[22:58:29] 
+[22:58:29] Server Plugins
+[22:58:29] --------------
+[22:58:29]  Loading plugin: mysql.dll
+[22:58:29]  >> plugin.mysql: R41-4 successfully loaded.
+[22:58:29]   Loaded.
+[22:58:29]  Loaded 1 plugins.
+
+[22:58:29] 
+[22:58:29] Filterscripts
+[22:58:29] ---------------
+[22:58:29]   Loaded 0 filterscripts.
+
+[22:58:29] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[22:58:29] [SERVER] Имя сервера установлено: Сервер с нуля
+[22:58:29] [SERVER] Режим сервера установлен: 1.0.0
+[22:58:29] [SERVER] Карта сервера установлена: start_map
+[22:58:29] [SERVER] Язык сервера установлен: ru
+[22:58:29] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[22:58:29] [DATABASE] Подключение к базе данных успешно установлено
+[22:58:29] ----------------------  [END LOAD] ------------------------------------
+[22:58:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:01:07] filterscripts = ""  (string)
+[23:01:07] 
+[23:01:07] Server Plugins
+[23:01:07] --------------
+[23:01:07]  Loading plugin: mysql.dll
+[23:01:07]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:07]   Loaded.
+[23:01:07]  Loaded 1 plugins.
+
+[23:01:07] 
+[23:01:07] Filterscripts
+[23:01:07] ---------------
+[23:01:07]   Loaded 0 filterscripts.
+
+[23:01:07] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:01:07] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:01:07] [SERVER] Режим сервера установлен: 1.0.0
+[23:01:07] [SERVER] Карта сервера установлена: start_map
+[23:01:07] [SERVER] Язык сервера установлен: ru
+[23:01:07] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:01:08] [DATABASE] Подключение к базе данных успешно установлено
+[23:01:08] ----------------------  [END LOAD] ------------------------------------
+[23:01:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:01:37] filterscripts = ""  (string)
+[23:01:37] 
+[23:01:37] Server Plugins
+[23:01:37] --------------
+[23:01:37]  Loading plugin: mysql.dll
+[23:01:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:37]   Loaded.
+[23:01:37]  Loaded 1 plugins.
+
+[23:01:37] 
+[23:01:37] Filterscripts
+[23:01:37] ---------------
+[23:01:37]   Loaded 0 filterscripts.
+
+[23:01:37] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:01:37] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:01:37] [SERVER] Режим сервера установлен: 1.0.0
+[23:01:37] [SERVER] Карта сервера установлена: start_map
+[23:01:37] [SERVER] Язык сервера установлен: ru
+[23:01:37] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:01:37] [DATABASE] Подключение к базе данных успешно установлено
+[23:01:37] ----------------------  [END LOAD] ------------------------------------
+[23:01:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:01:40] filterscripts = ""  (string)
+[23:01:40] 
+[23:01:40] Server Plugins
+[23:01:40] --------------
+[23:01:40]  Loading plugin: mysql.dll
+[23:01:40]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:40]   Loaded.
+[23:01:40]  Loaded 1 plugins.
+
+[23:01:40] 
+[23:01:40] Filterscripts
+[23:01:40] ---------------
+[23:01:40]   Loaded 0 filterscripts.
+
+[23:01:40] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:01:40] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:01:40] [SERVER] Режим сервера установлен: 1.0.0
+[23:01:40] [SERVER] Карта сервера установлена: start_map
+[23:01:40] [SERVER] Язык сервера установлен: ru
+[23:01:40] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:01:40] [DATABASE] Подключение к базе данных успешно установлено
+[23:01:40] ----------------------  [END LOAD] ------------------------------------
+[23:01:40] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:01:46] filterscripts = ""  (string)
+[23:01:46] 
+[23:01:46] Server Plugins
+[23:01:46] --------------
+[23:01:46]  Loading plugin: mysql.dll
+[23:01:46]  >> plugin.mysql: R41-4 successfully loaded.
+[23:01:46]   Loaded.
+[23:01:46]  Loaded 1 plugins.
+
+[23:01:46] 
+[23:01:46] Filterscripts
+[23:01:46] ---------------
+[23:01:46]   Loaded 0 filterscripts.
+
+[23:01:46] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:01:46] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:01:46] [SERVER] Режим сервера установлен: 1.0.0
+[23:01:46] [SERVER] Карта сервера установлена: start_map
+[23:01:46] [SERVER] Язык сервера установлен: ru
+[23:01:46] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:01:46] [DATABASE] Подключение к базе данных успешно установлено
+[23:01:46] ----------------------  [END LOAD] ------------------------------------
+[23:01:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:02:14] filterscripts = ""  (string)
+[23:02:14] 
+[23:02:14] Server Plugins
+[23:02:14] --------------
+[23:02:14]  Loading plugin: mysql.dll
+[23:02:14]  >> plugin.mysql: R41-4 successfully loaded.
+[23:02:14]   Loaded.
+[23:02:14]  Loaded 1 plugins.
+
+[23:02:14] 
+[23:02:14] Filterscripts
+[23:02:14] ---------------
+[23:02:14]   Loaded 0 filterscripts.
+
+[23:02:14] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:02:14] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:02:14] [SERVER] Режим сервера установлен: 1.0.0
+[23:02:14] [SERVER] Карта сервера установлена: start_map
+[23:02:14] [SERVER] Язык сервера установлен: ru
+[23:02:14] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:02:14] [DATABASE] Подключение к базе данных успешно установлено
+[23:02:14] ----------------------  [END LOAD] ------------------------------------
+[23:02:14] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:06:08] filterscripts = ""  (string)
+[23:06:08] 
+[23:06:08] Server Plugins
+[23:06:08] --------------
+[23:06:08]  Loading plugin: mysql.dll
+[23:06:08]  >> plugin.mysql: R41-4 successfully loaded.
+[23:06:08]   Loaded.
+[23:06:08]  Loaded 1 plugins.
+
+[23:06:08] 
+[23:06:08] Filterscripts
+[23:06:08] ---------------
+[23:06:08]   Loaded 0 filterscripts.
+
+[23:06:08] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:06:08] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:06:08] [SERVER] Режим сервера установлен: 1.0.0
+[23:06:08] [SERVER] Карта сервера установлена: start_map
+[23:06:08] [SERVER] Язык сервера установлен: ru
+[23:06:08] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:06:08] [DATABASE] Подключение к базе данных успешно установлено
+[23:06:08] ----------------------  [END LOAD] ------------------------------------
+[23:06:08] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:06:16] filterscripts = ""  (string)
+[23:06:16] 
+[23:06:16] Server Plugins
+[23:06:16] --------------
+[23:06:16]  Loading plugin: mysql.dll
+[23:06:16]  >> plugin.mysql: R41-4 successfully loaded.
+[23:06:16]   Loaded.
+[23:06:16]  Loaded 1 plugins.
+
+[23:06:16] 
+[23:06:16] Filterscripts
+[23:06:16] ---------------
+[23:06:16]   Loaded 0 filterscripts.
+
+[23:06:16] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:06:16] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:06:16] [SERVER] Режим сервера установлен: 1.0.0
+[23:06:16] [SERVER] Карта сервера установлена: start_map
+[23:06:16] [SERVER] Язык сервера установлен: ru
+[23:06:16] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:06:16] [DATABASE] Подключение к базе данных успешно установлено
+[23:06:16] ----------------------  [END LOAD] ------------------------------------
+[23:06:16] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:06:55] filterscripts = ""  (string)
+[23:06:55] 
+[23:06:55] Server Plugins
+[23:06:55] --------------
+[23:06:55]  Loading plugin: mysql.dll
+[23:06:55]  >> plugin.mysql: R41-4 successfully loaded.
+[23:06:55]   Loaded.
+[23:06:55]  Loaded 1 plugins.
+
+[23:06:55] 
+[23:06:55] Filterscripts
+[23:06:55] ---------------
+[23:06:55]   Loaded 0 filterscripts.
+
+[23:06:55] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:06:55] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:06:55] [SERVER] Режим сервера установлен: 1.0.0
+[23:06:55] [SERVER] Карта сервера установлена: start_map
+[23:06:55] [SERVER] Язык сервера установлен: ru
+[23:06:55] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:06:55] [DATABASE] Подключение к базе данных успешно установлено
+[23:06:55] ----------------------  [END LOAD] ------------------------------------
+[23:06:55] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:07:19] filterscripts = ""  (string)
+[23:07:19] 
+[23:07:19] Server Plugins
+[23:07:19] --------------
+[23:07:19]  Loading plugin: mysql.dll
+[23:07:19]  >> plugin.mysql: R41-4 successfully loaded.
+[23:07:19]   Loaded.
+[23:07:19]  Loaded 1 plugins.
+
+[23:07:19] 
+[23:07:19] Filterscripts
+[23:07:19] ---------------
+[23:07:19]   Loaded 0 filterscripts.
+
+[23:07:19] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:07:19] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:07:19] [SERVER] Режим сервера установлен: 1.0.0
+[23:07:19] [SERVER] Карта сервера установлена: start_map
+[23:07:19] [SERVER] Язык сервера установлен: ru
+[23:07:19] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:07:19] [DATABASE] Подключение к базе данных успешно установлено
+[23:07:19] ----------------------  [END LOAD] ------------------------------------
+[23:07:19] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:08:26] filterscripts = ""  (string)
+[23:08:26] 
+[23:08:26] Server Plugins
+[23:08:26] --------------
+[23:08:26]  Loading plugin: mysql.dll
+[23:08:26]  >> plugin.mysql: R41-4 successfully loaded.
+[23:08:26]   Loaded.
+[23:08:26]  Loaded 1 plugins.
+
+[23:08:26] 
+[23:08:26] Filterscripts
+[23:08:26] ---------------
+[23:08:26]   Loaded 0 filterscripts.
+
+[23:08:26] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:08:26] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:08:26] [SERVER] Режим сервера установлен: 1.0.0
+[23:08:26] [SERVER] Карта сервера установлена: start_map
+[23:08:26] [SERVER] Язык сервера установлен: ru
+[23:08:26] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:08:26] [DATABASE] Подключение к базе данных успешно установлено
+[23:08:26] ----------------------  [END LOAD] ------------------------------------
+[23:08:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:08:54] filterscripts = ""  (string)
+[23:08:54] 
+[23:08:54] Server Plugins
+[23:08:54] --------------
+[23:08:54]  Loading plugin: mysql.dll
+[23:08:54]  >> plugin.mysql: R41-4 successfully loaded.
+[23:08:54]   Loaded.
+[23:08:54]  Loaded 1 plugins.
+
+[23:08:54] 
+[23:08:54] Filterscripts
+[23:08:54] ---------------
+[23:08:54]   Loaded 0 filterscripts.
+
+[23:08:54] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:08:54] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:08:54] [SERVER] Режим сервера установлен: 1.0.0
+[23:08:54] [SERVER] Карта сервера установлена: start_map
+[23:08:54] [SERVER] Язык сервера установлен: ru
+[23:08:54] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:08:54] [DATABASE] Подключение к базе данных успешно установлено
+[23:08:54] ----------------------  [END LOAD] ------------------------------------
+[23:08:54] Number of vehicle models: 0
+[23:10:36] [connection] incoming connection: 127.0.0.1:58498 id: 0
+[23:10:36] [join] Easy_Code has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:16:09] filterscripts = ""  (string)
+[23:16:09] 
+[23:16:09] Server Plugins
+[23:16:09] --------------
+[23:16:09]  Loading plugin: mysql.dll
+[23:16:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:09]   Loaded.
+[23:16:09]  Loaded 1 plugins.
+
+[23:16:09] 
+[23:16:09] Filterscripts
+[23:16:09] ---------------
+[23:16:09]   Loaded 0 filterscripts.
+
+[23:16:09] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:16:09] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:16:09] [SERVER] Режим сервера установлен: 1.0.0
+[23:16:09] [SERVER] Карта сервера установлена: start_map
+[23:16:09] [SERVER] Язык сервера установлен: ru
+[23:16:09] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:16:09] [DATABASE] Подключение к базе данных успешно установлено
+[23:16:09] ----------------------  [END LOAD] ------------------------------------
+[23:16:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:16:09] filterscripts = ""  (string)
+[23:16:09] 
+[23:16:09] Server Plugins
+[23:16:09] --------------
+[23:16:09]  Loading plugin: mysql.dll
+[23:16:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:09]   Loaded.
+[23:16:09]  Loaded 1 plugins.
+
+[23:16:09] 
+[23:16:09] Filterscripts
+[23:16:09] ---------------
+[23:16:09]   Loaded 0 filterscripts.
+
+[23:16:09] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:16:09] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:16:09] [SERVER] Режим сервера установлен: 1.0.0
+[23:16:09] [SERVER] Карта сервера установлена: start_map
+[23:16:09] [SERVER] Язык сервера установлен: ru
+[23:16:09] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:16:09] [DATABASE] Подключение к базе данных успешно установлено
+[23:16:09] ----------------------  [END LOAD] ------------------------------------
+[23:16:09] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:16:30] filterscripts = ""  (string)
+[23:16:30] 
+[23:16:30] Server Plugins
+[23:16:30] --------------
+[23:16:30]  Loading plugin: mysql.dll
+[23:16:30]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:30]   Loaded.
+[23:16:30]  Loaded 1 plugins.
+
+[23:16:30] 
+[23:16:30] Filterscripts
+[23:16:30] ---------------
+[23:16:30]   Loaded 0 filterscripts.
+
+[23:16:30] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:16:30] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:16:30] [SERVER] Режим сервера установлен: 1.0.0
+[23:16:30] [SERVER] Карта сервера установлена: start_map
+[23:16:30] [SERVER] Язык сервера установлен: ru
+[23:16:30] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:16:30] [DATABASE] Подключение к базе данных успешно установлено
+[23:16:30] ----------------------  [END LOAD] ------------------------------------
+[23:16:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:16:30] filterscripts = ""  (string)
+[23:16:30] 
+[23:16:30] Server Plugins
+[23:16:30] --------------
+[23:16:30]  Loading plugin: mysql.dll
+[23:16:30]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:30]   Loaded.
+[23:16:30]  Loaded 1 plugins.
+
+[23:16:30] 
+[23:16:30] Filterscripts
+[23:16:30] ---------------
+[23:16:30]   Loaded 0 filterscripts.
+
+[23:16:30] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:16:30] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:16:30] [SERVER] Режим сервера установлен: 1.0.0
+[23:16:30] [SERVER] Карта сервера установлена: start_map
+[23:16:30] [SERVER] Язык сервера установлен: ru
+[23:16:30] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:16:30] [DATABASE] Подключение к базе данных успешно установлено
+[23:16:30] ----------------------  [END LOAD] ------------------------------------
+[23:16:30] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:17:50] filterscripts = ""  (string)
+[23:17:50] 
+[23:17:50] Server Plugins
+[23:17:50] --------------
+[23:17:50]  Loading plugin: mysql.dll
+[23:17:50]  >> plugin.mysql: R41-4 successfully loaded.
+[23:17:50]   Loaded.
+[23:17:50]  Loaded 1 plugins.
+
+[23:17:50] 
+[23:17:50] Filterscripts
+[23:17:50] ---------------
+[23:17:50]   Loaded 0 filterscripts.
+
+[23:17:50] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:17:50] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:17:50] [SERVER] Режим сервера установлен: 1.0.0
+[23:17:50] [SERVER] Карта сервера установлена: start_map
+[23:17:50] [SERVER] Язык сервера установлен: ru
+[23:17:50] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:17:50] [DATABASE] Подключение к базе данных успешно установлено
+[23:17:50] ----------------------  [END LOAD] ------------------------------------
+[23:17:50] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:26:37] filterscripts = ""  (string)
+[23:26:37] 
+[23:26:37] Server Plugins
+[23:26:37] --------------
+[23:26:37]  Loading plugin: mysql.dll
+[23:26:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:26:37]   Loaded.
+[23:26:37]  Loaded 1 plugins.
+
+[23:26:37] 
+[23:26:37] Filterscripts
+[23:26:37] ---------------
+[23:26:37]   Loaded 0 filterscripts.
+
+[23:26:37] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:26:37] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:26:37] [SERVER] Режим сервера установлен: 1.0.0
+[23:26:37] [SERVER] Карта сервера установлена: start_map
+[23:26:37] [SERVER] Язык сервера установлен: ru
+[23:26:37] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:26:37] [DATABASE] Подключение к базе данных успешно установлено
+[23:26:37] ----------------------  [END LOAD] ------------------------------------
+[23:26:37] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:31:41] filterscripts = ""  (string)
+[23:31:41] 
+[23:31:41] Server Plugins
+[23:31:41] --------------
+[23:31:41]  Loading plugin: mysql.dll
+[23:31:41]  >> plugin.mysql: R41-4 successfully loaded.
+[23:31:41]   Loaded.
+[23:31:41]  Loaded 1 plugins.
+
+[23:31:41] 
+[23:31:41] Filterscripts
+[23:31:41] ---------------
+[23:31:41]   Loaded 0 filterscripts.
+
+[23:31:41] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:31:41] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:31:41] [SERVER] Режим сервера установлен: 1.0.0
+[23:31:41] [SERVER] Карта сервера установлена: start_map
+[23:31:41] [SERVER] Язык сервера установлен: ru
+[23:31:41] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:31:41] [DATABASE] Подключение к базе данных успешно установлено
+[23:31:41] ----------------------  [END LOAD] ------------------------------------
+[23:31:41] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:31:42] filterscripts = ""  (string)
+[23:31:42] 
+[23:31:42] Server Plugins
+[23:31:42] --------------
+[23:31:42]  Loading plugin: mysql.dll
+[23:31:42]  >> plugin.mysql: R41-4 successfully loaded.
+[23:31:42]   Loaded.
+[23:31:42]  Loaded 1 plugins.
+
+[23:31:42] 
+[23:31:42] Filterscripts
+[23:31:42] ---------------
+[23:31:42]   Loaded 0 filterscripts.
+
+[23:31:42] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:31:42] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:31:42] [SERVER] Режим сервера установлен: 1.0.0
+[23:31:42] [SERVER] Карта сервера установлена: start_map
+[23:31:42] [SERVER] Язык сервера установлен: ru
+[23:31:42] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:31:42] [DATABASE] Подключение к базе данных успешно установлено
+[23:31:42] ----------------------  [END LOAD] ------------------------------------
+[23:31:42] Number of vehicle models: 0
+[23:31:45] [connection] incoming connection: 127.0.0.1:56536 id: 0
+[23:31:45] [join] Easy_Code has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:32:23] filterscripts = ""  (string)
+[23:32:23] 
+[23:32:23] Server Plugins
+[23:32:23] --------------
+[23:32:23]  Loading plugin: mysql.dll
+[23:32:23]  >> plugin.mysql: R41-4 successfully loaded.
+[23:32:23]   Loaded.
+[23:32:23]  Loaded 1 plugins.
+
+[23:32:23] 
+[23:32:23] Filterscripts
+[23:32:23] ---------------
+[23:32:23]   Loaded 0 filterscripts.
+
+[23:32:23] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:32:23] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:32:23] [SERVER] Режим сервера установлен: 1.0.0
+[23:32:23] [SERVER] Карта сервера установлена: start_map
+[23:32:23] [SERVER] Язык сервера установлен: ru
+[23:32:23] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:32:23] [DATABASE] Подключение к базе данных успешно установлено
+[23:32:23] ----------------------  [END LOAD] ------------------------------------
+[23:32:23] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:32:23] filterscripts = ""  (string)
+[23:32:23] 
+[23:32:23] Server Plugins
+[23:32:23] --------------
+[23:32:23]  Loading plugin: mysql.dll
+[23:32:23]  >> plugin.mysql: R41-4 successfully loaded.
+[23:32:23]   Loaded.
+[23:32:23]  Loaded 1 plugins.
+
+[23:32:23] 
+[23:32:23] Filterscripts
+[23:32:23] ---------------
+[23:32:23]   Loaded 0 filterscripts.
+
+[23:32:23] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:32:23] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:32:23] [SERVER] Режим сервера установлен: 1.0.0
+[23:32:23] [SERVER] Карта сервера установлена: start_map
+[23:32:23] [SERVER] Язык сервера установлен: ru
+[23:32:23] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:32:23] [DATABASE] Подключение к базе данных успешно установлено
+[23:32:23] ----------------------  [END LOAD] ------------------------------------
+[23:32:23] Number of vehicle models: 0
+[23:32:30] [connection] incoming connection: 127.0.0.1:65455 id: 0
+[23:32:34] [join] Easy_Code has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:33:04] filterscripts = ""  (string)
+[23:33:04] 
+[23:33:04] Server Plugins
+[23:33:04] --------------
+[23:33:04]  Loading plugin: mysql.dll
+[23:33:04]  >> plugin.mysql: R41-4 successfully loaded.
+[23:33:04]   Loaded.
+[23:33:04]  Loaded 1 plugins.
+
+[23:33:04] 
+[23:33:04] Filterscripts
+[23:33:04] ---------------
+[23:33:04]   Loaded 0 filterscripts.
+
+[23:33:04] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:33:04] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:33:04] [SERVER] Режим сервера установлен: 1.0.0
+[23:33:04] [SERVER] Карта сервера установлена: start_map
+[23:33:04] [SERVER] Язык сервера установлен: ru
+[23:33:04] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:33:04] [DATABASE] Подключение к базе данных успешно установлено
+[23:33:04] ----------------------  [END LOAD] ------------------------------------
+[23:33:04] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:33:33] filterscripts = ""  (string)
+[23:33:33] 
+[23:33:33] Server Plugins
+[23:33:33] --------------
+[23:33:33]  Loading plugin: mysql.dll
+[23:33:33]  >> plugin.mysql: R41-4 successfully loaded.
+[23:33:33]   Loaded.
+[23:33:33]  Loaded 1 plugins.
+
+[23:33:33] 
+[23:33:33] Filterscripts
+[23:33:33] ---------------
+[23:33:33]   Loaded 0 filterscripts.
+
+[23:33:33] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:33:33] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:33:33] [SERVER] Режим сервера установлен: 1.0.0
+[23:33:33] [SERVER] Карта сервера установлена: start_map
+[23:33:33] [SERVER] Язык сервера установлен: ru
+[23:33:33] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:33:33] [DATABASE] Подключение к базе данных успешно установлено
+[23:33:33] ----------------------  [END LOAD] ------------------------------------
+[23:33:33] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:33:37] filterscripts = ""  (string)
+[23:33:37] 
+[23:33:37] Server Plugins
+[23:33:37] --------------
+[23:33:37]  Loading plugin: mysql.dll
+[23:33:37]  >> plugin.mysql: R41-4 successfully loaded.
+[23:33:37]   Loaded.
+[23:33:37]  Loaded 1 plugins.
+
+[23:33:37] 
+[23:33:37] Filterscripts
+[23:33:37] ---------------
+[23:33:37]   Loaded 0 filterscripts.
+
+[23:33:37] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:33:37] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:33:37] [SERVER] Режим сервера установлен: 1.0.0
+[23:33:37] [SERVER] Карта сервера установлена: start_map
+[23:33:37] [SERVER] Язык сервера установлен: ru
+[23:33:37] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:33:37] [DATABASE] Подключение к базе данных успешно установлено
+[23:33:37] ----------------------  [END LOAD] ------------------------------------
+[23:33:37] Number of vehicle models: 0
+[23:33:46] [connection] incoming connection: 127.0.0.1:49540 id: 0
+[23:33:46] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:33:48] [connection] incoming connection: 127.0.0.1:65301 id: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:33:51] filterscripts = ""  (string)
+[23:33:51] 
+[23:33:51] Server Plugins
+[23:33:51] --------------
+[23:33:51]  Loading plugin: mysql.dll
+[23:33:51]  >> plugin.mysql: R41-4 successfully loaded.
+[23:33:51]   Loaded.
+[23:33:51]  Loaded 1 plugins.
+
+[23:33:51] 
+[23:33:51] Filterscripts
+[23:33:51] ---------------
+[23:33:51]   Loaded 0 filterscripts.
+
+[23:33:51] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:33:51] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:33:51] [SERVER] Режим сервера установлен: 1.0.0
+[23:33:51] [SERVER] Карта сервера установлена: start_map
+[23:33:51] [SERVER] Язык сервера установлен: ru
+[23:33:51] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:33:51] [DATABASE] Подключение к базе данных успешно установлено
+[23:33:51] ----------------------  [END LOAD] ------------------------------------
+[23:33:51] Number of vehicle models: 0
+[23:33:57] [connection] incoming connection: 127.0.0.1:54405 id: 0
+[23:33:57] [join] Easy_Code has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:36:09] filterscripts = ""  (string)
+[23:36:09] 
+[23:36:09] Server Plugins
+[23:36:09] --------------
+[23:36:09]  Loading plugin: mysql.dll
+[23:36:09]  >> plugin.mysql: R41-4 successfully loaded.
+[23:36:09]   Loaded.
+[23:36:09]  Loaded 1 plugins.
+
+[23:36:09] 
+[23:36:09] Filterscripts
+[23:36:09] ---------------
+[23:36:09]   Loaded 0 filterscripts.
+
+[23:36:09] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:36:09] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:36:09] [SERVER] Режим сервера установлен: 1.0.0
+[23:36:09] [SERVER] Карта сервера установлена: start_map
+[23:36:09] [SERVER] Язык сервера установлен: ru
+[23:36:09] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:36:09] [DATABASE] Подключение к базе данных успешно установлено
+[23:36:09] ----------------------  [END LOAD] ------------------------------------
+[23:36:09] Number of vehicle models: 0
+[23:36:16] [connection] incoming connection: 127.0.0.1:56830 id: 0
+[23:36:16] [join] Easy_Code has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:38:54] filterscripts = ""  (string)
+[23:38:54] 
+[23:38:54] Server Plugins
+[23:38:54] --------------
+[23:38:54]  Loading plugin: mysql.dll
+[23:38:54]  >> plugin.mysql: R41-4 successfully loaded.
+[23:38:54]   Loaded.
+[23:38:54]  Loaded 1 plugins.
+
+[23:38:54] 
+[23:38:54] Filterscripts
+[23:38:54] ---------------
+[23:38:54]   Loaded 0 filterscripts.
+
+[23:38:54] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:38:54] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:38:54] [SERVER] Режим сервера установлен: 1.0.0
+[23:38:54] [SERVER] Карта сервера установлена: start_map
+[23:38:54] [SERVER] Язык сервера установлен: ru
+[23:38:54] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:38:54] [DATABASE] Подключение к базе данных успешно установлено
+[23:38:54] ----------------------  [END LOAD] ------------------------------------
+[23:38:54] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:39:10] filterscripts = ""  (string)
+[23:39:10] 
+[23:39:10] Server Plugins
+[23:39:10] --------------
+[23:39:10]  Loading plugin: mysql.dll
+[23:39:10]  >> plugin.mysql: R41-4 successfully loaded.
+[23:39:10]   Loaded.
+[23:39:10]  Loaded 1 plugins.
+
+[23:39:10] 
+[23:39:10] Filterscripts
+[23:39:10] ---------------
+[23:39:10]   Loaded 0 filterscripts.
+
+[23:39:10] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:39:10] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:39:10] [SERVER] Режим сервера установлен: 1.0.0
+[23:39:10] [SERVER] Карта сервера установлена: start_map
+[23:39:10] [SERVER] Язык сервера установлен: ru
+[23:39:10] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:39:10] [DATABASE] Подключение к базе данных успешно установлено
+[23:39:10] ----------------------  [END LOAD] ------------------------------------
+[23:39:10] Number of vehicle models: 0
+[23:39:18] [connection] incoming connection: 127.0.0.1:52280 id: 0
+[23:39:18] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:39:20] [connection] incoming connection: 127.0.0.1:51055 id: 1
+[23:39:33] [part] Easy_Code has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:39:39] filterscripts = ""  (string)
+[23:39:39] 
+[23:39:39] Server Plugins
+[23:39:39] --------------
+[23:39:39]  Loading plugin: mysql.dll
+[23:39:39]  >> plugin.mysql: R41-4 successfully loaded.
+[23:39:39]   Loaded.
+[23:39:39]  Loaded 1 plugins.
+
+[23:39:39] 
+[23:39:39] Filterscripts
+[23:39:39] ---------------
+[23:39:39]   Loaded 0 filterscripts.
+
+[23:39:39] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:39:39] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:39:39] [SERVER] Режим сервера установлен: 1.0.0
+[23:39:39] [SERVER] Карта сервера установлена: start_map
+[23:39:39] [SERVER] Язык сервера установлен: ru
+[23:39:39] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:39:39] [DATABASE] Подключение к базе данных успешно установлено
+[23:39:39] ----------------------  [END LOAD] ------------------------------------
+[23:39:39] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:39:45] filterscripts = ""  (string)
+[23:39:45] 
+[23:39:45] Server Plugins
+[23:39:45] --------------
+[23:39:45]  Loading plugin: mysql.dll
+[23:39:45]  >> plugin.mysql: R41-4 successfully loaded.
+[23:39:45]   Loaded.
+[23:39:45]  Loaded 1 plugins.
+
+[23:39:45] 
+[23:39:45] Filterscripts
+[23:39:45] ---------------
+[23:39:45]   Loaded 0 filterscripts.
+
+[23:39:45] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:39:45] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:39:45] [SERVER] Режим сервера установлен: 1.0.0
+[23:39:45] [SERVER] Карта сервера установлена: start_map
+[23:39:45] [SERVER] Язык сервера установлен: ru
+[23:39:45] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:39:45] [DATABASE] Подключение к базе данных успешно установлено
+[23:39:45] ----------------------  [END LOAD] ------------------------------------
+[23:39:45] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:42:23] filterscripts = ""  (string)
+[23:42:23] 
+[23:42:23] Server Plugins
+[23:42:23] --------------
+[23:42:23]  Loading plugin: mysql.dll
+[23:42:23]  >> plugin.mysql: R41-4 successfully loaded.
+[23:42:23]   Loaded.
+[23:42:23]  Loaded 1 plugins.
+
+[23:42:23] 
+[23:42:23] Filterscripts
+[23:42:23] ---------------
+[23:42:23]   Loaded 0 filterscripts.
+
+[23:42:23] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:42:23] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:42:23] [SERVER] Режим сервера установлен: 1.0.0
+[23:42:23] [SERVER] Карта сервера установлена: start_map
+[23:42:23] [SERVER] Язык сервера установлен: ru
+[23:42:23] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:42:23] [DATABASE] Подключение к базе данных успешно установлено
+[23:42:23] ----------------------  [END LOAD] ------------------------------------
+[23:42:23] Number of vehicle models: 0
+[23:42:26] [connection] incoming connection: 127.0.0.1:52313 id: 0
+[23:42:26] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:42:26] Easy_Code
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:43:41] filterscripts = ""  (string)
+[23:43:41] 
+[23:43:41] Server Plugins
+[23:43:41] --------------
+[23:43:41]  Loading plugin: mysql.dll
+[23:43:41]  >> plugin.mysql: R41-4 successfully loaded.
+[23:43:41]   Loaded.
+[23:43:41]  Loaded 1 plugins.
+
+[23:43:41] 
+[23:43:41] Filterscripts
+[23:43:41] ---------------
+[23:43:41]   Loaded 0 filterscripts.
+
+[23:43:41] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:43:41] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:43:41] [SERVER] Режим сервера установлен: 1.0.0
+[23:43:41] [SERVER] Карта сервера установлена: start_map
+[23:43:41] [SERVER] Язык сервера установлен: ru
+[23:43:41] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:43:41] [DATABASE] Подключение к базе данных успешно установлено
+[23:43:41] ----------------------  [END LOAD] ------------------------------------
+[23:43:41] Number of vehicle models: 0
+[23:43:53] [connection] incoming connection: 127.0.0.1:63209 id: 0
+[23:43:54] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:43:54] Easy_Code
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:47:21] filterscripts = ""  (string)
+[23:47:21] 
+[23:47:21] Server Plugins
+[23:47:21] --------------
+[23:47:21]  Loading plugin: mysql.dll
+[23:47:21]  >> plugin.mysql: R41-4 successfully loaded.
+[23:47:21]   Loaded.
+[23:47:21]  Loaded 1 plugins.
+
+[23:47:21] 
+[23:47:21] Filterscripts
+[23:47:21] ---------------
+[23:47:21]   Loaded 0 filterscripts.
+
+[23:47:21] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:47:21] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:47:21] [SERVER] Режим сервера установлен: 1.0.0
+[23:47:21] [SERVER] Карта сервера установлена: start_map
+[23:47:21] [SERVER] Язык сервера установлен: ru
+[23:47:21] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:47:21] [DATABASE] Подключение к базе данных успешно установлено
+[23:47:21] ----------------------  [END LOAD] ------------------------------------
+[23:47:21] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:47:26] filterscripts = ""  (string)
+[23:47:26] 
+[23:47:26] Server Plugins
+[23:47:26] --------------
+[23:47:26]  Loading plugin: mysql.dll
+[23:47:26]  >> plugin.mysql: R41-4 successfully loaded.
+[23:47:26]   Loaded.
+[23:47:26]  Loaded 1 plugins.
+
+[23:47:26] 
+[23:47:26] Filterscripts
+[23:47:26] ---------------
+[23:47:26]   Loaded 0 filterscripts.
+
+[23:47:26] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:47:26] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:47:26] [SERVER] Режим сервера установлен: 1.0.0
+[23:47:26] [SERVER] Карта сервера установлена: start_map
+[23:47:26] [SERVER] Язык сервера установлен: ru
+[23:47:26] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:47:26] [DATABASE] Подключение к базе данных успешно установлено
+[23:47:26] ----------------------  [END LOAD] ------------------------------------
+[23:47:26] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:47:45] filterscripts = ""  (string)
+[23:47:45] 
+[23:47:45] Server Plugins
+[23:47:45] --------------
+[23:47:45]  Loading plugin: mysql.dll
+[23:47:45]  >> plugin.mysql: R41-4 successfully loaded.
+[23:47:45]   Loaded.
+[23:47:45]  Loaded 1 plugins.
+
+[23:47:45] 
+[23:47:45] Filterscripts
+[23:47:45] ---------------
+[23:47:45]   Loaded 0 filterscripts.
+
+[23:47:45] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:47:45] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:47:45] [SERVER] Режим сервера установлен: 1.0.0
+[23:47:45] [SERVER] Карта сервера установлена: start_map
+[23:47:45] [SERVER] Язык сервера установлен: ru
+[23:47:45] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:47:45] [DATABASE] Подключение к базе данных успешно установлено
+[23:47:45] ----------------------  [END LOAD] ------------------------------------
+[23:47:45] Number of vehicle models: 0
+[23:47:48] [connection] incoming connection: 127.0.0.1:53133 id: 0
+[23:47:48] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:47:48] Easy_Code
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:52:11] filterscripts = ""  (string)
+[23:52:11] 
+[23:52:11] Server Plugins
+[23:52:11] --------------
+[23:52:11]  Loading plugin: mysql.dll
+[23:52:11]  >> plugin.mysql: R41-4 successfully loaded.
+[23:52:11]   Loaded.
+[23:52:11]  Loaded 1 plugins.
+
+[23:52:11] 
+[23:52:11] Filterscripts
+[23:52:11] ---------------
+[23:52:11]   Loaded 0 filterscripts.
+
+[23:52:11] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:52:11] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:52:11] [SERVER] Режим сервера установлен: 1.0.0
+[23:52:11] [SERVER] Карта сервера установлена: start_map
+[23:52:11] [SERVER] Язык сервера установлен: ru
+[23:52:11] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:52:11] [DATABASE] Подключение к базе данных успешно установлено
+[23:52:11] ----------------------  [END LOAD] ------------------------------------
+[23:52:11] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[23:52:41] filterscripts = ""  (string)
+[23:52:41] 
+[23:52:41] Server Plugins
+[23:52:41] --------------
+[23:52:41]  Loading plugin: mysql.dll
+[23:52:41]  >> plugin.mysql: R41-4 successfully loaded.
+[23:52:41]   Loaded.
+[23:52:41]  Loaded 1 plugins.
+
+[23:52:41] 
+[23:52:41] Filterscripts
+[23:52:41] ---------------
+[23:52:41]   Loaded 0 filterscripts.
+
+[23:52:41] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[23:52:41] [SERVER] Имя сервера установлено: Сервер с нуля
+[23:52:41] [SERVER] Режим сервера установлен: 1.0.0
+[23:52:41] [SERVER] Карта сервера установлена: start_map
+[23:52:41] [SERVER] Язык сервера установлен: ru
+[23:52:41] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[23:52:41] [DATABASE] Подключение к базе данных успешно установлено
+[23:52:41] ----------------------  [END LOAD] ------------------------------------
+[23:52:41] Number of vehicle models: 0
+[23:52:43] [connection] incoming connection: 127.0.0.1:50561 id: 0
+[23:52:44] [join] Easy_Code has joined the server (0:127.0.0.1)
+[23:52:44] Easy_Code
+[23:52:59] [part] Easy_Code has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R3, (C)2005-2019 SA-MP Team
+
+[00:13:12] filterscripts = ""  (string)
+[00:13:12] 
+[00:13:12] Server Plugins
+[00:13:12] --------------
+[00:13:12]  Loading plugin: mysql.dll
+[00:13:12]  >> plugin.mysql: R41-4 successfully loaded.
+[00:13:12]   Loaded.
+[00:13:12]  Loaded 1 plugins.
+
+[00:13:12] 
+[00:13:12] Filterscripts
+[00:13:12] ---------------
+[00:13:12]   Loaded 0 filterscripts.
+
+[00:13:12] ---------------------- [SERVER] MODULE STARTED ---------------------- 
+[00:13:12] [SERVER] Имя сервера установлено: Сервер с нуля
+[00:13:12] [SERVER] Режим сервера установлен: 1.0.0
+[00:13:12] [SERVER] Карта сервера установлена: start_map
+[00:13:12] [SERVER] Язык сервера установлен: ru
+[00:13:12] ----------------------  [DATABASE] MODULE STARTED ---------------------- 
+[00:13:12] [DATABASE] Подключение к базе данных успешно установлено
+[00:13:12] ----------------------  [END LOAD] ------------------------------------
+[00:13:12] Number of vehicle models: 0
