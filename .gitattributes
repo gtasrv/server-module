@@ -1,2 +1,2 @@
-*.* working-tree-encoding=CP1251 eol=CRLF
+*.*	working-tree-encoding=cp1251	eol=crlf
 README.md working-tree-encoding=UTF-8 eol=CRLF
