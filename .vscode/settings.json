@@ -2,7 +2,7 @@
     "editor.fontFamily": "JetBrains Mono, 'bold', monospace",
     "editor.fontSize": 20,
 
-    "workbench.iconTheme": "material-icon-theme",
+    "workbench.iconTheme": "vs-seti",
     "material-icon-theme.hidesExplorerArrows": true,
     // "workbench.tree.indent": 14,
 

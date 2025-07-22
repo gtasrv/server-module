@@ -10,15 +10,14 @@ static MySQL:dbHandle;
 static stock Database_ConnectToBase() {
     dbHandle = mysql_connect("localhost", "root", "root", "module");
     if (mysql_errno(dbHandle) != 0) {
-        printf("[DATABASE] Ошибка подключения к базе данных - #%d", mysql_errno(dbHandle));
+        printf("[DATABASE] РћС€РёР±РєР° РїРѕРґРєР»СЋС‡РµРЅРёСЏ Рє Р±Р°Р·Рµ РґР°РЅРЅС‹С… - #%d", mysql_errno(dbHandle));
         return 0;
     }
-    return print("[DATABASE] Подключение к базе данных успешно установлено");
+    return print("[DATABASE] РџРѕРґРєР»СЋС‡РµРЅРёРµ Рє Р±Р°Р·Рµ РґР°РЅРЅС‹С… СѓСЃРїРµС€РЅРѕ СѓСЃС‚Р°РЅРѕРІР»РµРЅРѕ");
 }
 
 stock Database_SearchPlayer(playerid) {
     new query[41+MAX_PLAYER_NAME-2], name[MAX_PLAYER_NAME];
-    // GetPlayerName(playerid, name, MAX_PLAYER_NAME);
     Player_GetPlayerName(playerid, name);
     mysql_format(dbHandle, query, sizeof(query), "SELECT * FROM users WHERE username = '%s'", 
        name
